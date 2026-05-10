@@ -1,0 +1,2252 @@
+[
+  {
+    "id": 1,
+    "name": "Uzsalt",
+    "flag": "🧂",
+    "color": "#b8860b",
+    "category": "Salt",
+    "founded": 2018,
+    "emp": "50-100",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Tuz ishlab chiqarish va eksport",
+      "en": "Salt Production & Export",
+      "ru": "Производство и экспорт соли"
+    },
+    "desc": {
+      "uz": "O'zbekistonning yirik tuz ishlab chiqarish va eksport kompaniyasi. Xo'jaikon tuz koniga asoslangan. Germaniya, Xitoy va Eron bilan xalqaro savdo.",
+      "en": "Uzbekistan's leading salt production and export company based on the Khodjaikon deposit. International trade with Germany, China and Iran.",
+      "ru": "Ведущая компания по производству и экспорту соли в Узбекистане. Базируется на месторождении Ходжайкон."
+    },
+    "tags": [
+      "Tuz",
+      "Eksport",
+      "Xalqaro savdo",
+      "Co-founder"
+    ],
+    "address": "Toshkent, O'zbekiston",
+    "phone": "+998 94 201 11 11",
+    "web": "https://uzsalt.uz"
+  },
+  {
+    "id": 2,
+    "name": "Kapayurt Salt Town",
+    "flag": "🏙️",
+    "color": "#c8845a",
+    "category": "Tourism",
+    "founded": 2022,
+    "emp": "20-50",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Turizm va haloterapiya",
+      "en": "Tourism & Halotherapy",
+      "ru": "Туризм и галотерапия"
+    },
+    "desc": {
+      "uz": "Xo'jaikon tuz koniga asoslangan noyob haloterapiya va turizm markazi. Kapadokiya uslubidagi arxitektura bilan O'zbekistonning yangi turistik mo'ljali.",
+      "en": "A unique halotherapy and tourism center based on the Khodjaikon salt mine. Cappadocia-inspired architecture — Uzbekistan's emerging tourist destination.",
+      "ru": "Уникальный центр галотерапии и туризма на базе рудника Ходжайкон. Архитектура в стиле Каппадокии."
+    },
+    "tags": [
+      "Turizm",
+      "Haloterapiya",
+      "Ko'chmas mulk",
+      "Co-founder"
+    ],
+    "address": "Xo'jaikon, O'zbekiston"
+  },
+  {
+    "id": 3,
+    "name": "Bizayla",
+    "flag": "🤝",
+    "color": "#4a90d9",
+    "category": "Technology",
+    "founded": 2021,
+    "emp": "10-30",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Raqamli xizmat platformasi",
+      "en": "Digital Services Platform",
+      "ru": "Платформа цифровых услуг"
+    },
+    "desc": {
+      "uz": "Mahalliy biznes va xizmat ko'rsatish platformasi. Xizmat ko'rsatuvchilar va mijozlarni bog'lovchi zamonaviy raqamli yechim.",
+      "en": "A local business and services platform connecting service providers with customers through a modern digital solution.",
+      "ru": "Платформа местных услуг, соединяющая поставщиков с клиентами через современное цифровое решение."
+    },
+    "tags": [
+      "Platforma",
+      "Servis",
+      "B2C",
+      "Co-founder"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bio Texno Eco",
+    "flag": "♻️",
+    "color": "#2e8b57",
+    "category": "Ecology",
+    "founded": 2020,
+    "emp": "20-50",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Ekologik texnologiyalar",
+      "en": "Ecological Technologies",
+      "ru": "Экологические технологии"
+    },
+    "desc": {
+      "uz": "Ekologik texnologiyalar va biologik qayta ishlash loyihalari. Atrof-muhitni muhofaza qilish va yashil sanoat yo'nalishida innovatsion yechimlar.",
+      "en": "Ecological technologies and biological processing projects. Innovative solutions in environmental protection and green industry.",
+      "ru": "Экологические технологии и проекты биологической переработки. Инновационные решения в области охраны окружающей среды."
+    },
+    "tags": [
+      "Ekologiya",
+      "Bio texnologiya",
+      "Yashil",
+      "Co-founder"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Bisay Sanitar Tozalash Korxonasi",
+    "flag": "🧹",
+    "color": "#5b7fa6",
+    "category": "Municipal",
+    "founded": 2019,
+    "emp": "30-80",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Sanitariya va tozalash xizmatlari",
+      "en": "Sanitation & Cleaning Services",
+      "ru": "Санитарные и клининговые услуги"
+    },
+    "desc": {
+      "uz": "Sanitariya va tozalash xizmatlari korxonasi. Shahar va korxonalarga kompleks sanitariya yechimlari.",
+      "en": "Sanitation and cleaning services enterprise providing comprehensive solutions to cities and businesses.",
+      "ru": "Предприятие санитарной очистки, предоставляющее комплексные решения для городов и предприятий."
+    },
+    "tags": [
+      "Sanitariya",
+      "Tozalash",
+      "Kommunal",
+      "Co-founder"
+    ],
+    "phone": "+998 94 201 11 11"
+  },
+  {
+    "id": 6,
+    "name": "maxtruder GmbH",
+    "flag": "🇩🇪",
+    "color": "#3a6ea5",
+    "category": "Industrial",
+    "founded": 1998,
+    "emp": "100-500",
+    "country": {
+      "uz": "Germaniya",
+      "en": "Germany",
+      "ru": "Германия"
+    },
+    "industry": {
+      "uz": "Sanoat uskunalari",
+      "en": "Industrial Equipment",
+      "ru": "Промышленное оборудование"
+    },
+    "desc": {
+      "uz": "Germaniya sanoat uskunalari ishlab chiqaruvchisi. Tuz va kimyo sanoati uchun zamonaviy uskunalar yetkazib beruvchi xalqaro hamkor.",
+      "en": "German industrial equipment manufacturer. International partner supplying modern equipment for salt and chemical industries.",
+      "ru": "Немецкий производитель промышленного оборудования. Международный партнёр по поставке оборудования для соляной и химической промышленности."
+    },
+    "tags": [
+      "Germaniya",
+      "Sanoat uskunalari",
+      "Hamkor"
+    ],
+    "web": "https://maxtruder.de"
+  },
+  {
+    "id": 7,
+    "name": "CNBM International",
+    "flag": "🇨🇳",
+    "color": "#c0392b",
+    "category": "Industrial",
+    "founded": 2002,
+    "emp": "1000+",
+    "country": {
+      "uz": "Xitoy",
+      "en": "China",
+      "ru": "Китай"
+    },
+    "industry": {
+      "uz": "Xalqaro savdo va qurilish materiallari",
+      "en": "International Trade & Construction Materials",
+      "ru": "Международная торговля и стройматериалы"
+    },
+    "desc": {
+      "uz": "Xitoyning yirik savdo korporatsiyasi. Tuz va sanoat materiallari bo'yicha xalqaro savdo hamkori.",
+      "en": "China's major trading corporation. International trade partner for salt and industrial materials.",
+      "ru": "Крупная торговая корпорация Китая. Международный торговый партнёр по соли и промышленным материалам."
+    },
+    "tags": [
+      "Xitoy",
+      "Savdo",
+      "Sanoat",
+      "Hamkor"
+    ],
+    "web": "https://cnbmi.com"
+  },
+  {
+    "id": 8,
+    "name": "Iran Salt Trade Partners",
+    "flag": "🇮🇷",
+    "color": "#1a7a4a",
+    "category": "Trade",
+    "founded": 2019,
+    "emp": "10-50",
+    "country": {
+      "uz": "Eron",
+      "en": "Iran",
+      "ru": "Иран"
+    },
+    "industry": {
+      "uz": "Tuz savdosi va eksport",
+      "en": "Salt Trade & Export",
+      "ru": "Торговля солью и экспорт"
+    },
+    "desc": {
+      "uz": "Eron bilan tuz eksport savdosi bo'yicha xalqaro hamkorlik. Ikki mamlakat o'rtasida savdo aloqalarini mustahkamlash.",
+      "en": "International partnership for salt export trade with Iran. Strengthening trade relations between the two countries.",
+      "ru": "Международное партнёрство по экспорту соли с Ираном. Укрепление торговых связей между двумя странами."
+    },
+    "tags": [
+      "Eron",
+      "Tuz eksporti",
+      "Savdo",
+      "Hamkor"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Liebherr Group",
+    "flag": "🇩🇪",
+    "color": "#f39c12",
+    "category": "Industrial",
+    "founded": 1949,
+    "emp": "10000+",
+    "country": {
+      "uz": "Germaniya",
+      "en": "Germany",
+      "ru": "Германия"
+    },
+    "industry": {
+      "uz": "Og'ir texnika va uskunalar",
+      "en": "Heavy Equipment & Machinery",
+      "ru": "Тяжёлое оборудование и техника"
+    },
+    "desc": {
+      "uz": "Dunyoning yirik og'ir texnika ishlab chiqaruvchisi. Kon va sanoat loyihalari uchun uskunalar.",
+      "en": "One of the world's largest heavy equipment manufacturers. Machinery for mining and industrial projects.",
+      "ru": "Один из крупнейших мировых производителей тяжёлой техники. Оборудование для горнодобывающих и промышленных проектов."
+    },
+    "tags": [
+      "Germaniya",
+      "Og'ir texnika",
+      "Kon",
+      "Hamkor"
+    ],
+    "web": "https://liebherr.com"
+  },
+  {
+    "id": 10,
+    "name": "SamAuto / ISUZU Uzbekistan",
+    "flag": "🇺🇿",
+    "color": "#e74c3c",
+    "category": "Automotive",
+    "founded": 2008,
+    "emp": "500+",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Avtomobil sanoati",
+      "en": "Automotive Industry",
+      "ru": "Автомобильная промышленность"
+    },
+    "desc": {
+      "uz": "Yuk va tijorat transport vositalari ishlab chiqarish. Regional sales manager sifatida hamkorlik.",
+      "en": "Truck and commercial vehicle manufacturer. Partnership as regional sales manager.",
+      "ru": "Производство грузовых и коммерческих транспортных средств. Партнёрство в роли регионального менеджера по продажам."
+    },
+    "tags": [
+      "Avtomobil",
+      "Yuk mashinalari",
+      "Regional Sales Manager"
+    ],
+    "web": "https://samauto.uz"
+  },
+  {
+    "id": 11,
+    "name": "Aholitrans MCHJ",
+    "flag": "🇺🇿",
+    "color": "#2e7d32",
+    "category": "Ecology",
+    "founded": 2010,
+    "emp": "700-800",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Chiqindilarni qayta ishlash va kommunal xizmat",
+      "en": "Waste Recycling & Municipal Services",
+      "ru": "Переработка отходов и коммунальные услуги"
+    },
+    "desc": {
+      "uz": "Buxoro viloyatidagi yirik chiqindilarni qayta ishlash klasteri. Zararsiz chiqindilarni yig'ish, qayta ishlash va ulardan briket ko'mir, qurilish materiallari ishlab chiqarish. 8 soatda 400 tonna chiqindi qayta ishlash quvvatiga ega zamonaviy korxona.",
+      "en": "Major waste recycling cluster in Bukhara region. Collection and processing of non-hazardous waste, producing briquette coal and construction materials. Capacity to process 400 tonnes of waste per 8 hours.",
+      "ru": "Крупный кластер по переработке отходов в Бухарской области. Сбор и переработка безвредных отходов с производством брикетного угля и строительных материалов. Мощность 400 тонн в смену."
+    },
+    "tags": [
+      "Chiqindi qayta ishlash",
+      "Ekologiya",
+      "Kommunal",
+      "Buxoro"
+    ],
+    "address": "Buxoro viloyati, Kogon tumani, Beklar QFY",
+    "phone": "+998 99 401-27-77",
+    "email": "aholitrans@mail.ru"
+  },
+  {
+    "id": 12,
+    "name": "Nominal Stroy",
+    "flag": "🇺🇿",
+    "color": "#5c6bc0",
+    "category": "Construction",
+    "founded": 2015,
+    "emp": "50-200",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Qurilish va ta'mirlash ishlari",
+      "en": "Construction & Renovation",
+      "ru": "Строительство и ремонт"
+    },
+    "desc": {
+      "uz": "Chirchiq shahridagi qurilish va ta'mirlash kompaniyasi. Turar-joy va tijorat binolarini qurish, rekonstruksiya qilish va ta'mirlash. Toshkent viloyatida faoliyat yuritadi.",
+      "en": "Construction and renovation company in Chirchiq. Building and reconstructing residential and commercial properties across Tashkent region.",
+      "ru": "Строительная и ремонтная компания в Чирчике. Строительство и реконструкция жилых и коммерческих объектов в Ташкентской области."
+    },
+    "tags": [
+      "Qurilish",
+      "Ta'mirlash",
+      "Chirchiq"
+    ],
+    "address": "111700, Chirchiq, Elibay ko'chasi 10-A",
+    "phone": "+998 98 361-27-37",
+    "email": "Nscorps@mail.ru"
+  },
+  {
+    "id": 13,
+    "name": "Toshelektrotexmontaj CO LLC",
+    "flag": "🇺🇿",
+    "color": "#f57c00",
+    "category": "Energy",
+    "founded": 2005,
+    "emp": "100-300",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Elektr montaj va muhandislik xizmatlari",
+      "en": "Electrical Installation & Engineering Services",
+      "ru": "Электромонтаж и инженерные услуги"
+    },
+    "desc": {
+      "uz": "Toshkentdagi elektr montaj va muhandislik kompaniyasi. Sanoat va fuqarolik ob'yektlarida elektr tarmoqlari o'rnatish, elektr jihozlari montaji, transformator va yuqori kuchlanishli liniyalar qurilishi.",
+      "en": "Electrical installation and engineering company in Tashkent. Installation of electrical networks for industrial and civil facilities, transformer stations, and high-voltage line construction.",
+      "ru": "Электромонтажная и инженерная компания в Ташкенте. Монтаж электрических сетей для промышленных и гражданских объектов, трансформаторных подстанций и высоковольтных линий."
+    },
+    "tags": [
+      "Elektr montaj",
+      "Muhandislik",
+      "Energetika",
+      "Toshkent"
+    ],
+    "address": "Toshkent, Chilanzar tumani, Bunyodkor ko'chasi 67",
+    "phone": "+998 98 308-21-02",
+    "email": "tetmetal@mail.ru"
+  },
+  {
+    "id": 14,
+    "name": "UHM — UK Heavy Machinery",
+    "flag": "🇬🇧",
+    "color": "#1565c0",
+    "category": "Industrial",
+    "founded": 2013,
+    "emp": "100-200",
+    "country": {
+      "uz": "O'zbekiston (Avstriya sarmoyasi)",
+      "en": "Uzbekistan (Austrian capital)",
+      "ru": "Узбекистан (австрийский капитал)"
+    },
+    "industry": {
+      "uz": "Og'ir qurilish texnikasi dilerlik va xizmat ko'rsatish",
+      "en": "Heavy Construction Machinery Dealership & Service",
+      "ru": "Дилерство и сервис тяжёлой строительной техники"
+    },
+    "desc": {
+      "uz": "O'zbekistondagi yetakchi qurilish texnikasi dilerlaridan biri. 2013 yilda Avstriyalik CISEG kompaniyasining sho'ba korxonasi sifatida tashkil etilgan. JCB, BOMAG, Marini va Gomaco brendlarining rasmiy va eksklyuziv distribyutori. 700+ texnika yetkazib berilgan.",
+      "en": "One of Uzbekistan's leading construction machinery dealers. Founded in 2013 as a subsidiary of Austrian CISEG. Exclusive distributor of JCB, BOMAG, Marini and Gomaco. Over 700 machines delivered.",
+      "ru": "Один из ведущих дилеров строительной техники Узбекистана. Основан в 2013 году как «дочка» австрийской CISEG. Эксклюзивный дистрибьютор JCB, BOMAG, Marini и Gomaco. Поставлено 700+ машин."
+    },
+    "tags": [
+      "JCB",
+      "Og'ir texnika",
+      "Qurilish uskunalari",
+      "Avstriya"
+    ],
+    "address": "Toshkent 100200, S. Yuldasheva ko'chasi 2/4-1",
+    "phone": "+998 90 977-31-37",
+    "email": "j.khasanov@uk-hm.com",
+    "web": "https://uhm.uz"
+  },
+  {
+    "id": 15,
+    "name": "Ekotex MCHJ",
+    "flag": "🇺🇿",
+    "color": "#388e3c",
+    "category": "Ecology",
+    "founded": 2012,
+    "emp": "50-150",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Ekologik texnologiyalar va atrof-muhit muhofazasi",
+      "en": "Environmental Technologies & Ecology",
+      "ru": "Экологические технологии и охрана окружающей среды"
+    },
+    "desc": {
+      "uz": "Ekologik texnologiyalar va atrof-muhitni muhofaza qilish sohasidagi kompaniya. Chiqindi utilizatsiya, suv va havo tozalash tizimlari. Rossiyaning Ecology Orel kompaniyasi bilan hamkorlikda faoliyat yuritadi.",
+      "en": "Company in environmental technologies and environmental protection. Waste utilization, water and air purification systems. Operates in partnership with Russia's Ecology Orel company.",
+      "ru": "Компания в области экологических технологий и охраны окружающей среды. Утилизация отходов, системы очистки воды и воздуха. Работает в партнёрстве с российской Ecology Orel."
+    },
+    "tags": [
+      "Ekologiya",
+      "Chiqindi",
+      "Tozalash tizimlari"
+    ],
+    "address": "Toshkent, Muqumiy ko'chasi 178",
+    "phone": "+998 90 945-51-65",
+    "email": "ecotexuzb@gmail.com",
+    "web": "https://ecology-orel.ru"
+  },
+  {
+    "id": 16,
+    "name": "New Life Insurance",
+    "flag": "🇺🇿",
+    "color": "#0288d1",
+    "category": "Finance",
+    "founded": 2014,
+    "emp": "200-500",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Hayot va sog'liq sug'urtasi",
+      "en": "Life & Health Insurance",
+      "ru": "Страхование жизни и здоровья"
+    },
+    "desc": {
+      "uz": "O'zbekiston sug'urta bozorida 2014 yildan faoliyat yurituvchi hayot va sog'liqni saqlash sug'urta kompaniyasi. Eng yuqori ishonchlilik reytingi uzA++ ga ega. Respublika bo'ylab filiallar tarmog'i.",
+      "en": "Life and health insurance company operating in Uzbekistan since 2014. Holds the highest reliability rating uzA++. Branch network across the republic.",
+      "ru": "Страховая компания по страхованию жизни и здоровья, работающая в Узбекистане с 2014 года. Имеет высший рейтинг надёжности uzA++. Сеть филиалов по всей республике."
+    },
+    "tags": [
+      "Sug'urta",
+      "Hayot",
+      "Moliya"
+    ],
+    "address": "Toshkent, Mirabad tumani, Amir Temur ko'chasi 47",
+    "phone": "+998 99 858-77-27",
+    "email": "bakaev@nli.uz",
+    "web": "https://nli.uz"
+  },
+  {
+    "id": 17,
+    "name": "OOO Jayhun Horazm Savdo",
+    "flag": "🇺🇿",
+    "color": "#7b1fa2",
+    "category": "Trade",
+    "founded": 2016,
+    "emp": "10-50",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Savdo va tijorat (Xorazm viloyati)",
+      "en": "Trade & Commerce (Khorezm region)",
+      "ru": "Торговля и коммерция (Хорезмская область)"
+    },
+    "desc": {
+      "uz": "Xorazm viloyatida faoliyat yurituvchi savdo va tijorat kompaniyasi. Mintaqada tovar va xizmatlar savdosi, import-eksport operatsiyalari.",
+      "en": "Trade and commerce company operating in Khorezm region. Goods and services trade in the region, import-export operations.",
+      "ru": "Торгово-коммерческая компания, работающая в Хорезмской области. Торговля товарами и услугами в регионе, импортно-экспортные операции."
+    },
+    "tags": [
+      "Savdo",
+      "Xorazm",
+      "Import-eksport"
+    ],
+    "phone": "+998 93 283-96-69",
+    "email": "mavlyuda.xamidova@gmail.com"
+  },
+  {
+    "id": 18,
+    "name": "Ruziboev Azamat — Master Chef",
+    "flag": "🍽️",
+    "color": "#c62828",
+    "category": "Food",
+    "founded": 2018,
+    "emp": "10-30",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Oshpazlik va ovqatlanish xizmatlari",
+      "en": "Culinary & Food Services",
+      "ru": "Кулинария и общественное питание"
+    },
+    "desc": {
+      "uz": "Toshkentdagi professional oshpaz va oshxona xizmatlari. Ziyofatlar, tadbirlar uchun ovqat tayyorlash, catering xizmati. M. Ulug'bek tumanida faoliyat yuritadi.",
+      "en": "Professional chef and food services in Tashkent. Food preparation and catering for banquets and events. Operating in M. Ulugbek district.",
+      "ru": "Профессиональный повар и кулинарные услуги в Ташкенте. Приготовление еды и кейтеринг для банкетов и мероприятий. Работает в районе М. Улугбека."
+    },
+    "tags": [
+      "Catering",
+      "Oshpaz",
+      "Ziyofat"
+    ],
+    "address": "Toshkent 100050, M. Ulug'bek tumani, Oltin Tepa ko'chasi",
+    "phone": "+998 93 465-39-51"
+  },
+  {
+    "id": 19,
+    "name": "O'zbekiston Savdo-Sanoat Palatasi",
+    "flag": "🇺🇿",
+    "color": "#1a237e",
+    "category": "Government",
+    "founded": 1996,
+    "emp": "200+",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Savdo-sanoat palatasi va biznes assotsiatsiyasi",
+      "en": "Chamber of Commerce & Industry",
+      "ru": "Торгово-промышленная палата"
+    },
+    "desc": {
+      "uz": "O'zbekiston tadbirkorlarini birlashtiruvchi asosiy tashkilot. Xalqaro savdo aloqalari, eksport qo'llab-quvvatlash, biznes ko'rgazmalari va hamkorlik faoliyatini muvofiqlashtirib boradi. Murojaat: Salixov Jamshid Gulyamovich.",
+      "en": "Main organization uniting Uzbek entrepreneurs. Coordinates international trade relations, export support, business exhibitions and partnerships. Contact: Salikhov Jamshid Gulyamovich.",
+      "ru": "Главная организация, объединяющая предпринимателей Узбекистана. Координирует международные торговые связи, поддержку экспорта, выставки и партнёрства. Контакт: Салихов Жамшид Гуломович."
+    },
+    "tags": [
+      "Savdo palata",
+      "Biznes",
+      "Eksport qo'llab-quvvatlash",
+      "Tashkilot"
+    ],
+    "address": "Toshkent 100007, Parkent ko'chasi 51",
+    "phone": "+998 99 871-88-88"
+  },
+  {
+    "id": 20,
+    "name": "Navoiy Fayzcom Textile LLC",
+    "flag": "🇺🇿",
+    "color": "#00695c",
+    "category": "Textile",
+    "founded": 2017,
+    "emp": "100-300",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Paxta qayta ishlash va ip gazlama ishlab chiqarish",
+      "en": "Cotton Processing & Yarn Production",
+      "ru": "Переработка хлопка и производство пряжи"
+    },
+    "desc": {
+      "uz": "Navoiy viloyati, Xatirchi tumanida joylashgan. Paxta qayta ishlash va ip gazlama (Ne 32/1) ishlab chiqarish. Mahsulotlar Xitoyga eksport qilinadi. Navoiy erkin iqtisodiy zona ishtirokchisi.",
+      "en": "Located in Khatyrchi district, Navoiy region. Cotton processing and yarn production (Ne 32/1). Products currently exported to China. Participant of Navoiy Free Economic Zone.",
+      "ru": "Расположена в Хатырчинском районе Навоийской области. Переработка хлопка и производство пряжи (Ne 32/1). Продукция экспортируется в Китай. Участник СЭЗ «Навои»."
+    },
+    "tags": [
+      "To'qimachilik",
+      "Paxta",
+      "Eksport",
+      "Navoiy SEZ"
+    ],
+    "address": "Navoiy viloyati, Xatirchi tumani 706800",
+    "phone": "+998 95 222-54-45",
+    "email": "navoiy.fayzcomtex@gmail.com"
+  },
+  {
+    "id": 21,
+    "name": "MSEB Pahtamash",
+    "flag": "🇺🇿",
+    "color": "#8d6e3b",
+    "category": "Industrial",
+    "founded": 2004,
+    "emp": "100+",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Paxta tozalash uskunalari ishlab chiqarish",
+      "en": "Cotton Ginning Equipment Manufacturing",
+      "ru": "Производство хлопкоочистительного оборудования"
+    },
+    "desc": {
+      "uz": "2004 yildan faoliyat yurituvchi paxta tozalash uskunalari ishlab chiqaruvchi va sotuvchi kompaniya. Sezoniga 5 000 dan 65 000 tonnagacha quvvatga ega paxta zavodlari uchun kompleks uskunalar tayyorlaydi. 200 dan ortiq turdagi mashina va 2 000 dan ortiq ehtiyot qismlar ishlab chiqaradi. Mahsulotlari Rossiya, Turkiya, Ozarbayjon, Turkmaniston, Tojikiston, Qozog'iston, Qirg'iziston va Afg'onistonga eksport qilinadi.",
+      "en": "Cotton gin equipment manufacturer operating since 2004. Produces complete sets of equipment for cotton factories with capacity from 5,000 to 65,000 tonnes per season. Over 200 machine types and 2,000+ spare parts. Products exported to Russia, Turkey, Azerbaijan, Turkmenistan, Tajikistan, Kazakhstan, Kyrgyzstan and Afghanistan.",
+      "ru": "Производитель хлопкоочистительного оборудования с 2004 года. Комплексные установки для хлопкозаводов мощностью от 5 000 до 65 000 тонн в сезон. Свыше 200 видов машин и 2 000+ наименований запчастей. Экспорт в Россию, Турцию, Азербайджан, Туркменистан, Таджикистан, Казахстан, Кыргызстан и Афганистан."
+    },
+    "tags": [
+      "Paxta",
+      "Uskunalar",
+      "Eksport",
+      "Ishlab chiqarish"
+    ],
+    "address": "Toshkent 100213, Bektemir tumani, Chirchiq buyi ko'chasi 13A",
+    "phone": "+998 90 910-15-00",
+    "email": "uz.pahtamash@mail.ru",
+    "web": "https://pahtamash.uz"
+  },
+  {
+    "id": 22,
+    "name": "Vero UZ",
+    "flag": "🇺🇿",
+    "color": "#1565c0",
+    "category": "Trade",
+    "founded": 2010,
+    "emp": "20-80",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Import-eksport savdosi va logistika",
+      "en": "Import-Export Trade & Logistics",
+      "ru": "Импортно-экспортная торговля и логистика"
+    },
+    "desc": {
+      "uz": "Toshkent viloyati, Zangiota tumanida joylashgan import-eksport va savdo kompaniyasi. Import va eksport operatsiyalarini amalga oshiradi. Menejer: Zuhriddinov Qutlug'murod.",
+      "en": "Import-export and trading company located in Zangiota district, Tashkent region. Handles both import and export operations. Manager: Zuhriddinov Qutlugmurod.",
+      "ru": "Импортно-экспортная и торговая компания в Зангиатинском районе Ташкентской области. Осуществляет импортные и экспортные операции. Менеджер: Зухриддинов Кутлугмурод."
+    },
+    "tags": [
+      "Import",
+      "Eksport",
+      "Savdo",
+      "Logistika"
+    ],
+    "address": "Toshkent viloyati, Zangiota tumani, Markaz Shox ko'chasi 33",
+    "phone": "+998 90 358-11-10",
+    "email": "import@vero.uz",
+    "web": "https://vero.uz"
+  },
+  {
+    "id": 23,
+    "name": "LLC Magic Technology",
+    "flag": "🇺🇿",
+    "color": "#6a1b9a",
+    "category": "Technology",
+    "founded": 2015,
+    "emp": "10-50",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Axborot texnologiyalari va raqamli yechimlar",
+      "en": "Information Technology & Digital Solutions",
+      "ru": "Информационные технологии и цифровые решения"
+    },
+    "desc": {
+      "uz": "Toshkentdagi texnologiya va raqamli yechimlar kompaniyasi. Bosh direktor: Umarov Abduraxmon. Yashnobod tumanida joylashgan.",
+      "en": "Technology and digital solutions company in Tashkent. General Director: Umarov Abdurakhmon. Located in Yashnabad district.",
+      "ru": "Компания в области технологий и цифровых решений в Ташкенте. Генеральный директор: Умаров Абдурахмон. Находится в Яшнабадском районе."
+    },
+    "tags": [
+      "IT",
+      "Texnologiya",
+      "Raqamli"
+    ],
+    "address": "Toshkent, Yashnobod tumani, S. Mashxadiy ko'chasi 164",
+    "phone": "+998 93 084-00-00",
+    "email": "jomiy_76@mail.ru"
+  },
+  {
+    "id": 24,
+    "name": "Amkodor-Tashkent",
+    "flag": "🇧🇾",
+    "color": "#c62828",
+    "category": "Industrial",
+    "founded": 2013,
+    "emp": "100-300",
+    "country": {
+      "uz": "O'zbekiston (Belarus sarmoyasi)",
+      "en": "Uzbekistan (Belarusian capital)",
+      "ru": "Узбекистан (белорусский капитал)"
+    },
+    "industry": {
+      "uz": "Yo'l qurilish, kommunal va qishloq xo'jaligi texnikasi",
+      "en": "Road Construction, Municipal & Agricultural Machinery",
+      "ru": "Дорожно-строительная, коммунальная и сельхозтехника"
+    },
+    "desc": {
+      "uz": "Belarusning AMKODOR holdingining O'zbekistondagi rasmiy vakili va sho'ba korxonasi. Yo'l qurilish, kommunal, qishloq xo'jaligi va maxsus texnikalarni yetkazib berish, kafolatli xizmat ko'rsatish va ehtiyot qism ta'minoti. Butun O'zbekiston bo'ylab 12 ta namoyish maydoni va 6 ta servis punktiga ega. 2018 yilda Belarus prezidenti va O'zbekiston prezidenti ishtirokida AMKODOR-AGROTEXMASH qo'shma korxonasi ochildi.",
+      "en": "Official representative and subsidiary of Belarus's AMKODOR Holding in Uzbekistan. Supply of road construction, municipal, agricultural and special machinery, warranty service and spare parts. 12 demonstration sites and 6 service points across Uzbekistan. In 2018, AMKODOR-AGROTEXMASH joint venture was opened with both presidents present.",
+      "ru": "Официальный представитель и дочернее предприятие белорусского холдинга AMKODOR в Узбекистане. Поставки дорожно-строительной, коммунальной, сельскохозяйственной и специальной техники, гарантийное обслуживание, запчасти. 12 демоплощадок и 6 сервисных точек по стране. В 2018 году открыто СП AMKODOR-AGROTEXMASH при участии президентов двух стран."
+    },
+    "tags": [
+      "Belarus",
+      "Texnika",
+      "Yo'l qurilish",
+      "Kommunal"
+    ],
+    "address": "Toshkent, 8 Mart ko'chasi 57",
+    "phone": "+998 90 921-33-31",
+    "email": "sinko.o@list.ru",
+    "web": "https://amkodor.uz"
+  },
+  {
+    "id": 25,
+    "name": "Delegation of the EU to Uzbekistan",
+    "flag": "🇪🇺",
+    "color": "#003399",
+    "category": "Government",
+    "founded": 1994,
+    "emp": "50+",
+    "country": {
+      "uz": "O'zbekiston (Yevropa Ittifoqi)",
+      "en": "Uzbekistan (European Union)",
+      "ru": "Узбекистан (Европейский союз)"
+    },
+    "industry": {
+      "uz": "Diplomatiya va hamkorlik dasturlari",
+      "en": "Diplomacy & Cooperation Programs",
+      "ru": "Дипломатия и программы сотрудничества"
+    },
+    "desc": {
+      "uz": "O'zbekistondagi Yevropa Ittifoqi delegatsiyasi. Hamkorlik bo'limi boshlig'i: Francois Begeot. Iqtisodiy, ijtimoiy va texnik hamkorlik dasturlari orqali O'zbekiston va YI o'rtasidagi munosabatlarni mustahkamlaydi.",
+      "en": "European Union Delegation to Uzbekistan. Head of Cooperation: Francois Begeot. Strengthens EU-Uzbekistan relations through economic, social and technical cooperation programs.",
+      "ru": "Делегация Европейского союза в Узбекистане. Глава отдела сотрудничества: Франсуа Бежо. Укрепляет отношения ЕС–Узбекистан через экономические, социальные и технические программы."
+    },
+    "tags": [
+      "Yevropa Ittifoqi",
+      "Diplomatiya",
+      "Hamkorlik",
+      "Xalqaro"
+    ],
+    "address": "Toshkent 100084, Amir Temur ko'chasi 107B",
+    "phone": "+998 90 977-42-10",
+    "email": "francois.begeot@eeas.europa.eu"
+  },
+  {
+    "id": 26,
+    "name": "Uzbekistan Airways — Lahore Office",
+    "flag": "🇺🇿",
+    "color": "#1a237e",
+    "category": "Aviation",
+    "founded": 1992,
+    "emp": "5000+",
+    "country": {
+      "uz": "O'zbekiston / Pokiston",
+      "en": "Uzbekistan / Pakistan",
+      "ru": "Узбекистан / Пакистан"
+    },
+    "industry": {
+      "uz": "Aviatsiya va havo transporti",
+      "en": "Aviation & Air Transport",
+      "ru": "Авиация и воздушный транспорт"
+    },
+    "desc": {
+      "uz": "O'zbekiston milliy aviakompaniyasining Lahore vakolatxonasi (Pokiston). O'lka menejeri: Baxtiyor Muminov. Allama Iqbol xalqaro aeroportida joylashgan. O'zbekiston va Pokiston o'rtasidagi havo qatnovlarini ta'minlaydi.",
+      "en": "Uzbekistan Airways Lahore representative office (Pakistan). Country Manager: Baxtiyor Muminov. Located at Allama Iqbal International Airport. Manages air connections between Uzbekistan and Pakistan.",
+      "ru": "Представительство Uzbekistan Airways в Лахоре (Пакистан). Страновой менеджер: Бахтиёр Муминов. Расположено в международном аэропорту Аллама Икбал. Обеспечивает авиасообщение между Узбекистаном и Пакистаном."
+    },
+    "tags": [
+      "Aviatsiya",
+      "Pokiston",
+      "Havo transporti"
+    ],
+    "address": "Allama Iqbal International Airport, 4th Floor, Office 4163, Lahore, Pakistan",
+    "phone": "+92 42 366-11-554",
+    "email": "lhe@uzairways.com"
+  },
+  {
+    "id": 27,
+    "name": "Uzeltexsanoat Association",
+    "flag": "🇺🇿",
+    "color": "#bf360c",
+    "category": "Government",
+    "founded": 1994,
+    "emp": "200+",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Elektrotexnika sanoati uyushmasi",
+      "en": "Electrotechnical Industry Association",
+      "ru": "Ассоциация электротехнической промышленности"
+    },
+    "desc": {
+      "uz": "O'zbekiston Respublikasi Prezidentining 2019-yil 4-yanvardagi PQ-4090-son qarori asosida tashkil etilgan elektrotexnika sanoati korxonalari uyushmasi. Xalqaro hamkorlarni topish, muzokaralar, eksport qo'llab-quvvatlash, import optimallashtirish va lokalizatsiya yo'nalishlarida faoliyat yuritadi. Marketing bo'lim boshlig'i: Ibrohim Hamidov.",
+      "en": "Association of electrotechnical industry enterprises of Uzbekistan, established by Presidential Decree PQ-4090 of January 4, 2019. Activities: finding international partners, negotiations, export support, import optimization and localization. Head of Marketing: Ibrakhim Khamidov.",
+      "ru": "Ассоциация предприятий электротехнической промышленности Узбекистана, созданная Указом Президента ПП-4090 от 4 января 2019 г. Деятельность: поиск международных партнёров, переговоры, поддержка экспорта, оптимизация импорта и локализация. Начальник отдела маркетинга: Ибрахим Хамидов."
+    },
+    "tags": [
+      "Elektrotexnika",
+      "Uyushma",
+      "Eksport",
+      "Sanoat"
+    ],
+    "address": "Toshkent 100200, Kukcha Darvoza ko'chasi 10",
+    "phone": "+998 90 113-51-00",
+    "email": "i.homidov@uzeltexsanoat.uz",
+    "web": "https://uzeltech.uz"
+  },
+  {
+    "id": 28,
+    "name": "IranFana (Fana Co.)",
+    "flag": "🇮🇷",
+    "color": "#1565c0",
+    "category": "Engineering",
+    "founded": 2010,
+    "emp": "50-200",
+    "country": {
+      "uz": "Eron",
+      "en": "Iran",
+      "ru": "Иран"
+    },
+    "industry": {
+      "uz": "Suv inshootlari, neyrodinamik favvoralar va yoritish tizimlari",
+      "en": "Hydraulic Structures, Neon Fountains & Lighting Systems",
+      "ru": "Гидротехнические сооружения, фонтаны и системы освещения"
+    },
+    "desc": {
+      "uz": "Isfahondagi yirik muhandislik kompaniyasi. Musiqali favvoralar, suv inshootlari va shahar yoritish loyihalari. ISO 9001, 18001 va 14001 sertifikatlariga ega. Eron milliy televideniyelari tomonidan ko'p bor ko'rsatilgan. Noor Fana brendi ostida ham faoliyat yuritadi.",
+      "en": "Major engineering company in Isfahan. Musical fountains, hydraulic structures and urban lighting projects. ISO 9001, 18001 and 14001 certified. Featured by Iranian national TV networks. Also operates under the Noor Fana brand.",
+      "ru": "Крупная инженерная компания в Исфахане. Музыкальные фонтаны, гидросооружения и проекты городского освещения. Сертификаты ISO 9001, 18001 и 14001. Неоднократно освещалась иранскими телеканалами. Работает также под брендом Noor Fana."
+    },
+    "tags": [
+      "Eron",
+      "Favvora",
+      "Muhandislik",
+      "Yoritish",
+      "Isfahan"
+    ],
+    "web": "https://iranfana.com"
+  },
+  {
+    "id": 29,
+    "name": "Zarif Carpets (Zarif Mosavar)",
+    "flag": "🇮🇷",
+    "color": "#b71c1c",
+    "category": "Textile",
+    "founded": 1984,
+    "emp": "1500+",
+    "country": {
+      "uz": "Eron",
+      "en": "Iran",
+      "ru": "Иран"
+    },
+    "industry": {
+      "uz": "Gilamlar ishlab chiqarish va eksport (O'rta Sharqdagi eng yirik)",
+      "en": "Carpet Manufacturing & Export (Largest in Middle East)",
+      "ru": "Производство и экспорт ковров (крупнейший на Ближнем Востоке)"
+    },
+    "desc": {
+      "uz": "1984 yildan faoliyat yurituvchi O'rta Sharqdagi eng yirik gilamlar ishlab chiqaruvchi. Yillik ishlab chiqarish quvvati 50 million kvadrat metr. 30+ mamlakatga eksport qiladi. Tufted, Needle Punch, Carpet Tiles, Sun'iy o't mahsulotlari. Parij sifat mukofoti (1998), ISO 9001 sertifikati. Eksport menejeri: Ehsan Fooladfar.",
+      "en": "Middle East's largest wall-to-wall carpet manufacturer since 1984. Annual production capacity 50 million sqm. Exports to 30+ countries. Tufted, needle-felt, carpet tiles, artificial grass. Paris Quality Award (1998), ISO certified. Export Manager: Ehsan Fooladfar.",
+      "ru": "Крупнейший в Ближнем Востоке производитель ковров с 1984 года. Мощность 50 млн кв.м./год. Экспорт в 30+ стран. Tufted, иглопробивные, ковровая плитка, искусственный газон. Парижская премия качества (1998), ISO сертификат. Менеджер по экспорту: Эхсан Фулодфар."
+    },
+    "tags": [
+      "Eron",
+      "Gilam",
+      "Eksport",
+      "Isfahan",
+      "Textile"
+    ],
+    "address": "No.4, 1st Moshtagh Ave, Isfahan, Iran",
+    "phone": "+98 913 114 7097",
+    "email": "sales@zarifcarpets.com",
+    "web": "https://zarifcarpets.com"
+  },
+  {
+    "id": 30,
+    "name": "Isfahan Chamber of Commerce, Industries, Mines & Agriculture",
+    "flag": "🇮🇷",
+    "color": "#1a237e",
+    "category": "Government",
+    "founded": 1920,
+    "emp": "100+",
+    "country": {
+      "uz": "Eron",
+      "en": "Iran",
+      "ru": "Иран"
+    },
+    "industry": {
+      "uz": "Savdo-sanoat, konchilik va qishloq xo'jaligi palatasi",
+      "en": "Chamber of Commerce, Industries, Mines & Agriculture",
+      "ru": "Торгово-промышленная, горнодобывающая и сельскохозяйственная палата"
+    },
+    "desc": {
+      "uz": "Isfahon savdo-sanoat, konchilik va qishloq xo'jaligi palatasi. Eron biznes hamjamiyatini birlashtiruvchi davlat tashkiloti. Xalqaro savdo hamkorlik, eksport ko'llab-quvvatlash va investitsiyalarni jalb etish. Email: ebrahimy.s@eccim.com",
+      "en": "Isfahan Chamber of Commerce, Industries, Mines & Agriculture. State organization uniting the Iranian business community. International trade partnerships, export support and investment attraction.",
+      "ru": "Исфаханская торгово-промышленная палата, горнодобывающей промышленности и сельского хозяйства. Государственная организация, объединяющая бизнес-сообщество Ирана."
+    },
+    "tags": [
+      "Eron",
+      "Isfahan",
+      "Savdo palata",
+      "Biznes",
+      "Davlat"
+    ],
+    "phone": "+98 31 37650...",
+    "email": "ebrahimy.s@eccim.com"
+  },
+  {
+    "id": 31,
+    "name": "Golazin Plus",
+    "flag": "🇮🇷",
+    "color": "#006064",
+    "category": "Trade",
+    "founded": 2015,
+    "emp": "10-50",
+    "country": {
+      "uz": "Eron",
+      "en": "Iran",
+      "ru": "Иран"
+    },
+    "industry": {
+      "uz": "Import-eksport va savdo kompaniyasi",
+      "en": "Import-Export & Trading Company",
+      "ru": "Импортно-экспортная и торговая компания"
+    },
+    "desc": {
+      "uz": "Eronlik import-eksport va savdo kompaniyasi. golazinplus va golazincompany nomi ostida ijtimoiy tarmoqlarda faol. Xalqaro savdo operatsiyalarini amalga oshiradi.",
+      "en": "Iranian import-export and trading company. Active on social media under golazinplus and golazincompany. Conducts international trade operations.",
+      "ru": "Иранская импортно-экспортная и торговая компания. Активна в соцсетях под именами golazinplus и golazincompany."
+    },
+    "tags": [
+      "Eron",
+      "Import",
+      "Eksport",
+      "Savdo"
+    ],
+    "phone": "+98 41 31919994 / +98 41 ۴۱۳۴۰۱۱۸۴۳",
+    "web": "https://golazinplus.com"
+  },
+  {
+    "id": 32,
+    "name": "ECO Trading Company",
+    "flag": "🇵🇰",
+    "color": "#1b5e20",
+    "category": "Trade",
+    "founded": 2005,
+    "emp": "10-50",
+    "country": {
+      "uz": "Pokiston",
+      "en": "Pakistan",
+      "ru": "Пакистан"
+    },
+    "industry": {
+      "uz": "Import-eksport (Pokiston, Eron, Turkiya aloqalari)",
+      "en": "Importers & Exporters (Pakistan, Iran, Turkey connections)",
+      "ru": "Импорт-экспорт (связи с Пакистаном, Ираном, Турцией)"
+    },
+    "desc": {
+      "uz": "Pokistonning Quetta shahrida joylashgan import-eksport kompaniyasi. Pokiston, Eron va Turkiya bilan savdo aloqalari. Bosh ijrochi direktor: Ghulam Khaliq. Mega Trade Center, Shara-e-Iqbal, Quetta.",
+      "en": "Import-export company based in Quetta, Pakistan. Trade connections with Pakistan, Iran and Turkey. Chief Executive: Ghulam Khaliq. Located at Mega Trade Center, Shara-e-Iqbal, Quetta.",
+      "ru": "Импортно-экспортная компания в Кветте, Пакистан. Торговые связи с Пакистаном, Ираном и Турцией. Генеральный директор: Гулям Халик."
+    },
+    "tags": [
+      "Pokiston",
+      "Eron",
+      "Turkiya",
+      "Import-eksport",
+      "Quetta"
+    ],
+    "address": "Office No.3, 4th Floor, Mega Trade Center, Near Manan Chowk, Shara-e-Iqbal, Quetta, Pakistan",
+    "phone": "+92 335 3231063",
+    "email": "info@afghanbic.com"
+  },
+  {
+    "id": 33,
+    "name": "Afghanistan Chamber of Commerce & Investment (ACCI)",
+    "flag": "🇦🇫",
+    "color": "#33691e",
+    "category": "Government",
+    "founded": 1931,
+    "emp": "200+",
+    "country": {
+      "uz": "Afgʻoniston",
+      "en": "Afghanistan",
+      "ru": "Афганистан"
+    },
+    "industry": {
+      "uz": "Savdo-sanoat palatasi va investitsiya tashkiloti",
+      "en": "Chamber of Commerce & Investment Organization",
+      "ru": "Торгово-промышленная палата и инвестиционная организация"
+    },
+    "desc": {
+      "uz": "Afgʻoniston Savdo-Sanoat va Investitsiya Palatasi. Vitse-rais (xizmatlar): Nasir Ahmad Arab. Kabul va xalqaro bozorlarda biznes hamkorlik, eksport ko'llab-quvvatlash va investitsiya jalb etish.",
+      "en": "Afghanistan Chamber of Commerce & Investment. Vice-Chairman (Services): Nasir Ahmad Arab. Business partnerships, export support and investment attraction in Kabul and international markets.",
+      "ru": "Афганская торгово-промышленная палата и инвестиции. Вице-председатель (услуги): Насир Ахмад Араб. Деловые партнёрства, поддержка экспорта и привлечение инвестиций."
+    },
+    "tags": [
+      "Afgʻoniston",
+      "Savdo palata",
+      "Investitsiya",
+      "Kabul"
+    ],
+    "address": "233 Kabul-Afghanistan, Next to Kabul Nendari, Chaman-e-Huzuri",
+    "phone": "+93 786 015 222",
+    "email": "na.arab@acci.org.af",
+    "web": "https://acc.org.af"
+  },
+  {
+    "id": 34,
+    "name": "Duz Land — Salt Therapy Association",
+    "flag": "🇮🇷",
+    "color": "#78909c",
+    "category": "Tourism",
+    "founded": 2018,
+    "emp": "10-50",
+    "country": {
+      "uz": "Eron",
+      "en": "Iran",
+      "ru": "Иран"
+    },
+    "industry": {
+      "uz": "Tuz terapiyasi va sog'liqni saqlash markazi",
+      "en": "Salt Therapy & Health Center",
+      "ru": "Центр солевой терапии и оздоровления"
+    },
+    "desc": {
+      "uz": "Eron tuz terapiyasi assotsiatsiyasiga a'zo haloterapiya markazi. Tuz g'orlari, galoterapiya va nafas olish kasalliklarini davolash tizimlari. Uzsalt bilan tuz sanoatida potentsial hamkor.",
+      "en": "Halotherapy center member of Iran Salt Therapy Association. Salt caves, halotherapy and respiratory treatment systems. Potential partner in salt industry with Uzsalt.",
+      "ru": "Центр галотерапии, член Иранской ассоциации солевой терапии. Соляные пещеры, галотерапия и системы лечения органов дыхания. Потенциальный партнёр в соляной отрасли с Uzsalt."
+    },
+    "tags": [
+      "Eron",
+      "Tuz terapiyasi",
+      "Haloterapiya",
+      "Sog'liq",
+      "Turizm"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Azarshin Brick",
+    "flag": "🇮🇷",
+    "color": "#6d2f2f",
+    "category": "Industrial",
+    "founded": 1973,
+    "emp": "600+",
+    "country": {
+      "uz": "Eron",
+      "en": "Iran",
+      "ru": "Иран"
+    },
+    "industry": {
+      "uz": "G'isht ishlab chiqarish va eksport (50+ yil tajriba)",
+      "en": "Brick Manufacturing & Export (50+ years experience)",
+      "ru": "Производство и экспорт кирпича (50+ лет опыта)"
+    },
+    "desc": {
+      "uz": "1973 yildan faoliyat yurituvchi \"Unique & Luxe\" shioriga ega g'isht ishlab chiqaruvchi. Loftos, gil, uch teshikli va olov bardoshli g'ishtlar. Mahdieh, Saadi Novin, Fakhr va Azarshin brendlari ostida mahsulot chiqaradi. Qurilish loyihalari uchun xilma-xil shakl va o'lchamlarda.",
+      "en": "Brick manufacturer since 1973 with \"Unique & Luxe\" slogan. Lofton, clay, three-hole and fire-resistant bricks. Products under brands Mahdieh, Saadi Novin, Fakhr and Azarshin. Various shapes and sizes for construction projects.",
+      "ru": "Производитель кирпича с 1973 года под девизом «Unique & Luxe». Лофтон, глиняные, трёхдырочные и огнеупорные кирпичи. Продукция под марками Mahdieh, Saadi Novin, Fakhr и Azarshin."
+    },
+    "tags": [
+      "Eron",
+      "G'isht",
+      "Qurilish",
+      "Eksport",
+      "50 yil"
+    ],
+    "phone": "+98 913 10 20 740 / +98 31 4514",
+    "email": "azarshinbrick1@gmail.com",
+    "web": "https://azarshinbrick.com"
+  },
+  {
+    "id": 36,
+    "name": "ISTNA Industries — Beton Markazi Arak",
+    "flag": "🇮🇷",
+    "color": "#1565c0",
+    "category": "Industrial",
+    "founded": 2000,
+    "emp": "100-300",
+    "country": {
+      "uz": "Eron",
+      "en": "Iran",
+      "ru": "Иран"
+    },
+    "industry": {
+      "uz": "Beton va qurilish materiallari sanoati (Arak)",
+      "en": "Concrete & Construction Materials Industry (Arak)",
+      "ru": "Производство бетона и стройматериалов (Арак)"
+    },
+    "desc": {
+      "uz": "Eronning Arak shahrida joylashgan beton va qurilish materiallari kompaniyasi. Markaziy viloyatda faoliyat yuritadi. Vakil: M. Mohammadi.",
+      "en": "Concrete and construction materials company in Arak, Iran. Operating in Markazi province. Representative: M. Mohammadi.",
+      "ru": "Компания по производству бетона и стройматериалов в Араке, Иран. Работает в провинции Маркази. Представитель: М. Мохаммади."
+    },
+    "tags": [
+      "Eron",
+      "Beton",
+      "Qurilish materiallari",
+      "Arak"
+    ],
+    "phone": "09121028660 / 09121079...",
+    "address": "Beton Markazi Arak, Markazi Province, Iran"
+  },
+  {
+    "id": 37,
+    "name": "Heco Motors & Pumps",
+    "flag": "🇵🇰",
+    "color": "#b71c1c",
+    "category": "Industrial",
+    "founded": 2000,
+    "emp": "50-150",
+    "country": {
+      "uz": "Pokiston",
+      "en": "Pakistan",
+      "ru": "Пакистан"
+    },
+    "industry": {
+      "uz": "Motorlar va nasoslar ishlab chiqarish va sotish",
+      "en": "Motors & Pumps Manufacturing and Sales",
+      "ru": "Производство и продажа моторов и насосов"
+    },
+    "desc": {
+      "uz": "\"Quality & Trust... Reborn\" shioriga ega Pokistonning Lahore shahridan motorlar va nasoslar kompaniyasi. Sanoat va qishloq xo'jaligi uchun nasoslar yetkazib beradi. Vakil: Abdul Chafoor. Awan Town Stop yaqinida, Multan Road, Lahore.",
+      "en": "\"Quality & Trust... Reborn\" - motors and pumps company from Lahore, Pakistan. Supplies industrial and agricultural pumps. Representative: Abdul Chafoor. Near Awan Town Stop, Multan Road, Lahore.",
+      "ru": "«Quality & Trust... Reborn» — компания по производству моторов и насосов из Лахора, Пакистан. Поставки промышленных и сельскохозяйственных насосов. Представитель: Абдул Чафур."
+    },
+    "tags": [
+      "Pokiston",
+      "Motor",
+      "Nasos",
+      "Lahore",
+      "Sanoat"
+    ],
+    "address": "Near Awan Town Stop, Multan Road, Lahore, Pakistan",
+    "phone": "+92 321 4823278",
+    "email": "info@hecopump.com",
+    "web": "https://hecopump.com"
+  },
+  {
+    "id": 38,
+    "name": "BTA.Co — Basit Tahghigh Asia",
+    "flag": "🇮🇷",
+    "color": "#2e7d32",
+    "category": "Ecology",
+    "founded": 2010,
+    "emp": "30-100",
+    "country": {
+      "uz": "Eron",
+      "en": "Iran",
+      "ru": "Иран"
+    },
+    "industry": {
+      "uz": "Chiqindilarni qayta ishlash va kompost zavodlari loyihalash va ishlab chiqarish",
+      "en": "Waste Recycling & Compost Production Plants Design & Manufacturing",
+      "ru": "Проектирование и производство установок для переработки отходов и компостирования"
+    },
+    "desc": {
+      "uz": "Chiqindilarni qayta ishlash va kompost ishlab chiqarish zavodlarini loyihalashtiruvchi va ishlab chiqaruvchi Eronlik kompaniya. Direktor menejeri: A.R. Danesh Fozoun. Isfahon, Jay ko'chasi, Omran binosi 12-uy. Uzsalt bilan ekologik loyihalarda hamkorlik potentsiali.",
+      "en": "Iranian company designing and manufacturing waste recycling and compost production plants. Manager Director: A.R. Danesh Fozoun. No.12 Omran Building, Jay Street, Isfahan, Iran.",
+      "ru": "Иранская компания по проектированию и производству установок для переработки отходов и компостирования. Директор-менеджер: А.Р. Данеш Фозун. Исфахан, ул. Джей, дом 12, здание Омран."
+    },
+    "tags": [
+      "Eron",
+      "Chiqindi qayta ishlash",
+      "Kompost",
+      "Isfahan",
+      "Ekologiya"
+    ],
+    "address": "No.12, Omran Building, Jay Street, Isfahan, Iran. Postal code: 81999-43531",
+    "phone": "+98 9313 2305169 / +98 9313 2305179",
+    "email": "info@bta-co.com",
+    "web": "https://bta-co.com"
+  },
+  {
+    "id": 39,
+    "name": "Diners Pakistan",
+    "flag": "🇵🇰",
+    "color": "#212121",
+    "category": "Textile",
+    "founded": 1986,
+    "emp": "500-1000",
+    "country": {
+      "uz": "Pokiston",
+      "en": "Pakistan",
+      "ru": "Пакистан"
+    },
+    "industry": {
+      "uz": "Moda va kiyim-kechak brendi (erkaklar, ayollar, bolalar)",
+      "en": "Fashion & Clothing Brand (Men, Women, Kids)",
+      "ru": "Бренд моды и одежды (мужчины, женщины, дети)"
+    },
+    "desc": {
+      "uz": "1986 yildan faoliyat yurituvchi Pokistonning yetakchi moda brendlaridan biri. Erkaklar, ayollar va bolalar kiyim-kechaklari, oyoq kiyimlari va aksessuarlar. Milliy va xalqaro bozorda keng tarqalgan. Operatsiyalar boshlig'i: Muhammad Yaqub Pechi.",
+      "en": "One of Pakistan's leading fashion brands since 1986. Men's, women's and children's clothing, footwear and accessories. Strong presence in national and international markets. Head of Operations: Muhammad Yaqub Pechi.",
+      "ru": "Один из ведущих модных брендов Пакистана с 1986 года. Одежда, обувь и аксессуары для мужчин, женщин и детей. Широкое присутствие на национальных и международных рынках. Директор по операциям: Мухаммад Якуб Печи."
+    },
+    "tags": [
+      "Pokiston",
+      "Moda",
+      "Kiyim",
+      "Lahore",
+      "B2C"
+    ],
+    "phone": "+92 336 4443773 / +92 321 8253598",
+    "email": "yaqub.pechi@diners.com.pk",
+    "web": "https://diners.com.pk"
+  },
+  {
+    "id": 40,
+    "name": "GDM Eco Corp.",
+    "flag": "🇰🇷",
+    "color": "#2e7d32",
+    "category": "Ecology",
+    "founded": 2005,
+    "emp": "20-80",
+    "country": {
+      "uz": "Janubiy Koreya",
+      "en": "South Korea",
+      "ru": "Южная Корея"
+    },
+    "industry": {
+      "uz": "Atrof-muhit sanoati texnologiyalari",
+      "en": "Environmental Industry Technologies",
+      "ru": "Технологии экологической промышленности"
+    },
+    "desc": {
+      "uz": "Seuldagi ekologik texnologiyalar kompaniyasi. Texnologiyalar direktori: Lee Jang Youl. Sanoat uchun atrof-muhitni muhofaza qilish yechimlari.",
+      "en": "Environmental technology company in Seoul. Director of Technologies: Lee Jang Youl. Environmental protection solutions for industry.",
+      "ru": "Компания экологических технологий в Сеуле. Директор по технологиям: Ли Чжан Ёль. Решения по охране окружающей среды для промышленности."
+    },
+    "tags": [
+      "Koreya",
+      "Ekologiya",
+      "Sanoat",
+      "Seoul"
+    ],
+    "address": "#218, 2F, 203, Mangu-ro, Jungnang-gu, Seoul 02116, Republic of Korea",
+    "phone": "+82 2 2207-1618",
+    "email": "gdm1216@naver.com"
+  },
+  {
+    "id": 41,
+    "name": "Guangzhou Tianhe Baoling Machinery",
+    "flag": "🇨🇳",
+    "color": "#c62828",
+    "category": "Industrial",
+    "founded": 2008,
+    "emp": "50-200",
+    "country": {
+      "uz": "Xitoy",
+      "en": "China",
+      "ru": "Китай"
+    },
+    "industry": {
+      "uz": "Qishloq xo'jaligi va gidravlik mashinalari ishlab chiqarish",
+      "en": "Agricultural & Hydraulic Machinery Manufacturing",
+      "ru": "Производство сельскохозяйственной и гидравлической техники"
+    },
+    "desc": {
+      "uz": "Guangzhou Tianhe shahridan zavoddan to'g'ridan-to'g'ri sotish kompaniyasi. Qishloq xo'jaligi mashinalari, gidravlik nasos o'rindiqlar, suv qutilari ishlab chiqaradi. Vakil: Zhou Yong Sheng. www.gzyfyy.com",
+      "en": "Factory direct sale company from Guangzhou Tianhe. Manufactures agricultural machinery, hydraulic pump seats, water tanks. Representative: Zhou Yong Sheng.",
+      "ru": "Компания прямых продаж с завода из Гуанчжоу Тяньхэ. Производит сельхозтехнику, гидравлические насосные установки, водяные баки. Представитель: Чжоу Юн Шэн."
+    },
+    "tags": [
+      "Xitoy",
+      "Mashinasozlik",
+      "Qishloq xo'jaligi",
+      "Gidravlika"
+    ],
+    "address": "Guangdong, Meizhou City, Changan Industrial Zone, Building B1, Floor 09",
+    "phone": "020-32238129 / 13925400086",
+    "email": "gzyfyyy@126.com",
+    "web": "http://www.gzyfyy.com"
+  },
+  {
+    "id": 42,
+    "name": "UCTC — Uzbekistan & CIS Trade Center",
+    "flag": "🇵🇰",
+    "color": "#1565c0",
+    "category": "Trade",
+    "founded": 2010,
+    "emp": "20-60",
+    "country": {
+      "uz": "Pokiston (O'zbekiston vakili)",
+      "en": "Pakistan (Uzbekistan representative)",
+      "ru": "Пакистан (представитель для Узбекистана)"
+    },
+    "industry": {
+      "uz": "O'zbekiston va MDH mamlakatlari savdo markazi",
+      "en": "Uzbekistan & CIS Trade Center",
+      "ru": "Торговый центр Узбекистана и стран СНГ"
+    },
+    "desc": {
+      "uz": "Pokistonning Karachi shahrida joylashgan O'zbekiston va MDH mamlakatlari savdo markazi. Rais: Sohail Moten. Toshkentda namoyish markazi mavjud (Shayxontohur tumani). O'zbekiston bozorida Pokiston tovarlarini taqdim etish.",
+      "en": "Uzbekistan & CIS Trade Center based in Karachi, Pakistan. Chairman: Sohail Moten. Display center in Tashkent (Shaykhontakhur district). Represents Pakistani goods in the Uzbek market.",
+      "ru": "Торговый центр Узбекистана и СНГ, расположен в Карачи. Председатель: Сохаил Мотен. Выставочный центр в Ташкенте (Шайхантахурский район). Представляет пакистанские товары на рынке Узбекистана."
+    },
+    "tags": [
+      "Pokiston",
+      "O'zbekiston",
+      "MDH",
+      "Savdo markazi",
+      "Karachi"
+    ],
+    "address": "Bungalow # C-1, Karsaz Road, KDA Scheme No.1, PECHS, Karachi, Pakistan",
+    "phone": "+92 322 2186400",
+    "email": "sohail.moten@uctcworld.com",
+    "web": "https://uctcworld.com"
+  },
+  {
+    "id": 43,
+    "name": "Heisei Hire Co., Ltd.",
+    "flag": "🇯🇵",
+    "color": "#1a237e",
+    "category": "Trade",
+    "founded": 1995,
+    "emp": "50-200",
+    "country": {
+      "uz": "Yaponiya",
+      "en": "Japan",
+      "ru": "Япония"
+    },
+    "industry": {
+      "uz": "Xalqaro hamkorlik va savdo (xorijiy bo'lim)",
+      "en": "International Trade & Cooperation (Overseas Division)",
+      "ru": "Международная торговля и сотрудничество (зарубежный отдел)"
+    },
+    "desc": {
+      "uz": "Tokiodagi xalqaro savdo va hamkorlik kompaniyasi. Xorijiy bo'lim menejeri: Nobuhiko Ando. Shinbashi, Minato-ku, Tokyo.",
+      "en": "International trade and cooperation company in Tokyo. Overseas Division Manager: Nobuhiko Ando. Shinbashi, Minato-ku, Tokyo.",
+      "ru": "Компания международной торговли и сотрудничества в Токио. Менеджер зарубежного отдела: Нобухико Андо. Синбаси, Минато-ку, Токио."
+    },
+    "tags": [
+      "Yaponiya",
+      "Tokyo",
+      "Xalqaro savdo",
+      "Hamkorlik"
+    ],
+    "address": "〒105-0004, 1-12-10, Shinbashi, Minato-ku, Tokyo, Japan",
+    "phone": "+81 50-3733-7444",
+    "email": "overseasdivision@heisei-hire.com"
+  },
+  {
+    "id": 44,
+    "name": "M's Factory Co., Ltd.",
+    "flag": "🇯🇵",
+    "color": "#0d47a1",
+    "category": "Industrial",
+    "founded": 1990,
+    "emp": "20-100",
+    "country": {
+      "uz": "Yaponiya",
+      "en": "Japan",
+      "ru": "Япония"
+    },
+    "industry": {
+      "uz": "Ishlab chiqarish va texnologiya (Nagoya)",
+      "en": "Manufacturing & Technology (Nagoya)",
+      "ru": "Производство и технологии (Нагоя)"
+    },
+    "desc": {
+      "uz": "Nagoya shahridagi yapon ishlab chiqarish kompaniyasi. Prezident: Kenji Murai. Atsuta-ku, Aichi prefecture.",
+      "en": "Japanese manufacturing company in Nagoya. President: Kenji Murai. Atsuta-ku, Aichi prefecture.",
+      "ru": "Японская производственная компания в Нагое. Президент: Кэндзи Мурай. Ацута-ку, префектура Айти."
+    },
+    "tags": [
+      "Yaponiya",
+      "Nagoya",
+      "Ishlab chiqarish",
+      "Aichi"
+    ],
+    "address": "3-12 Sakurada-cho, Atsuta-ku, Nagoya-city, Aichi Pref., Japan 456-0004",
+    "phone": "+81-52-872-6932",
+    "email": "info@mic-msfactory.com",
+    "web": "http://www.mic-msfactory.com"
+  },
+  {
+    "id": 45,
+    "name": "Haiqi Group",
+    "flag": "🇨🇳",
+    "color": "#0277bd",
+    "category": "Industrial",
+    "founded": 2000,
+    "emp": "200-500",
+    "country": {
+      "uz": "Xitoy",
+      "en": "China",
+      "ru": "Китай"
+    },
+    "industry": {
+      "uz": "Gidravlik mashinalari va sanoat uskunalari",
+      "en": "Hydraulic Machinery & Industrial Equipment",
+      "ru": "Гидравлическое оборудование и промышленная техника"
+    },
+    "desc": {
+      "uz": "Henan viloyati, Shangqiu shahridan yirik mashinasozlik guruhi. Katta menejeri: Han Ji Sun. haiqi-machine.com saytida faol.",
+      "en": "Major machinery group from Shangqiu, Henan province. Senior Manager: Han Ji Sun. Active at haiqi-machine.com.",
+      "ru": "Крупная машиностроительная группа из Шанцю провинции Хэнань. Старший менеджер: Хань Цзи Сунь."
+    },
+    "tags": [
+      "Xitoy",
+      "Mashinasozlik",
+      "Gidravlika",
+      "Henan"
+    ],
+    "address": "#168, Hexie Road, Liangyuan district, Shangqiu, Henan, China",
+    "phone": "+82-10-4880-5231 / +998-91-292-8486",
+    "email": "hanjisunkor@naver.com",
+    "web": "https://haiqi-machine.com"
+  },
+  {
+    "id": 46,
+    "name": "Xinjiang Zhunchangzhen Trading Co.",
+    "flag": "🇨🇳",
+    "color": "#37474f",
+    "category": "Trade",
+    "founded": 2012,
+    "emp": "20-80",
+    "country": {
+      "uz": "Xitoy",
+      "en": "China",
+      "ru": "Китай"
+    },
+    "industry": {
+      "uz": "Issiqlik nasoslari, sovutish, konditsioner va suv tozalash uskunalari",
+      "en": "Heat Pumps, Cooling, HVAC & Water Purification Equipment",
+      "ru": "Тепловые насосы, охлаждение, кондиционирование и водоочистное оборудование"
+    },
+    "desc": {
+      "uz": "Sinszyan viloyatidan cheklangan mas'uliyatli savdo kompaniyasi. Issiqlik nasoslari, konditsioner, suv va havo tozalash, mexanik uskunalar savdosi. Vakil: Sun Qi.",
+      "en": "Limited liability trading company from Xinjiang. Sells heat pumps, HVAC, water and air purification, mechanical equipment. Representative: Sun Qi.",
+      "ru": "ООО торговая компания из Синьцзяна. Продаёт тепловые насосы, кондиционеры, системы очистки воды и воздуха, механическое оборудование. Представитель: Сун Ци."
+    },
+    "tags": [
+      "Xitoy",
+      "Sinszyan",
+      "Issiqlik nasosi",
+      "Konditsioner",
+      "Suv tozalash"
+    ],
+    "phone": "+86-15299527666",
+    "email": "50874068@g9.com"
+  },
+  {
+    "id": 47,
+    "name": "Zhonghe Yelu Salt Industry Co.",
+    "flag": "🇨🇳",
+    "color": "#5c6bc0",
+    "category": "Salt",
+    "founded": 2005,
+    "emp": "50-200",
+    "country": {
+      "uz": "Xitoy",
+      "en": "China",
+      "ru": "Китай"
+    },
+    "industry": {
+      "uz": "Tuz sanoati va savdo",
+      "en": "Salt Industry & Trade",
+      "ru": "Соляная промышленность и торговля"
+    },
+    "desc": {
+      "uz": "Xitoydan tuz sanoati kompaniyasi. Shandong viloyatidan. Yulan Ling — rahbar. Uzsalt bilan tuz savdosi bo'yicha potentsial xalqaro hamkor.",
+      "en": "Salt industry company from China. From Shandong province. Yulan Ling — leader. Potential international partner with Uzsalt for salt trade.",
+      "ru": "Китайская компания соляной промышленности. Из провинции Шаньдун. Юйлань Лин — руководитель. Потенциальный международный партнёр Uzsalt по торговле солью."
+    },
+    "tags": [
+      "Xitoy",
+      "Tuz sanoati",
+      "Shandong",
+      "Eksport",
+      "Uzsalt hamkor"
+    ],
+    "phone": "13505319356",
+    "email": "yulanling2008@163.com"
+  },
+  {
+    "id": 48,
+    "name": "Beston (Henan) Machinery Co., Ltd.",
+    "flag": "🇨🇳",
+    "color": "#b71c1c",
+    "category": "Ecology",
+    "founded": 2010,
+    "emp": "200-500",
+    "country": {
+      "uz": "Xitoy",
+      "en": "China",
+      "ru": "Китай"
+    },
+    "industry": {
+      "uz": "Chiqindilarni qayta ishlash mashinalari va piroliz uskunalari",
+      "en": "Waste Recycling Machinery & Pyrolysis Equipment",
+      "ru": "Оборудование для переработки отходов и пиролиза"
+    },
+    "desc": {
+      "uz": "Henan, Zhengzhou shahridan chiqindilarni qayta ishlash mashinalari ishlab chiqaruvchi. Sotish menejeri: Nate He. Chiqindi-plastik va chiqindi-yoqilg'i uskunalari. www.bestongroup.com",
+      "en": "Waste recycling machinery manufacturer from Zhengzhou, Henan. Sales Manager: Nate He. Waste-to-plastic and waste-to-fuel equipment. www.bestongroup.com",
+      "ru": "Производитель оборудования для переработки отходов из Чжэнчжоу, Хэнань. Менеджер по продажам: Нэйт Хэ. Оборудование «отходы в пластик» и «отходы в топливо»."
+    },
+    "tags": [
+      "Xitoy",
+      "Chiqindi qayta ishlash",
+      "Piroliz",
+      "Henan",
+      "Ekologiya"
+    ],
+    "address": "No.99, DaXue Road, Zhengzhou, China",
+    "phone": "+86 182 3695 9880",
+    "email": "sales12@bestongroup.com",
+    "web": "https://bestongroup.com"
+  },
+  {
+    "id": 49,
+    "name": "Samdong ENT Co., Ltd.",
+    "flag": "🇰🇷",
+    "color": "#0d47a1",
+    "category": "Industrial",
+    "founded": 2000,
+    "emp": "20-80",
+    "country": {
+      "uz": "Janubiy Koreya",
+      "en": "South Korea",
+      "ru": "Южная Корея"
+    },
+    "industry": {
+      "uz": "Sanoat uskunalari va muhandislik",
+      "en": "Industrial Equipment & Engineering",
+      "ru": "Промышленное оборудование и инжиниринг"
+    },
+    "desc": {
+      "uz": "Gyeonggi-do, Hwaseong shahridan koreya muhandislik kompaniyasi. Prezident: Yong-Kyu Jeong. Sanoat uskunalari va muhandislik yechimlari.",
+      "en": "Korean engineering company from Hwaseong, Gyeonggi-do. President: Yong-Kyu Jeong. Industrial equipment and engineering solutions.",
+      "ru": "Корейская инжиниринговая компания из Хвасона, Кёнгидо. Президент: Ён Гю Чон. Промышленное оборудование и инженерные решения."
+    },
+    "tags": [
+      "Koreya",
+      "Muhandislik",
+      "Sanoat",
+      "Hwaseong"
+    ],
+    "address": "222-9, Teonseokgol-ro, Hyangnam-eup, Hwaseong-si, Gyeonggi-do, Korea",
+    "phone": "+82-31-366-7196",
+    "email": "entro009@naver.com"
+  },
+  {
+    "id": 50,
+    "name": "TAEJUNEBIO — Cogeneration Plant Solution",
+    "flag": "🇰🇷",
+    "color": "#1a237e",
+    "category": "Energy",
+    "founded": 2010,
+    "emp": "20-80",
+    "country": {
+      "uz": "Janubiy Koreya",
+      "en": "South Korea",
+      "ru": "Южная Корея"
+    },
+    "industry": {
+      "uz": "Kogeneratsiya o'simlik yechimlari va biogas (Elektro Hagl eksklyuziv distribyutori)",
+      "en": "Cogeneration Plant Solutions & Biogas (Exclusive distributor of Elektro Hagl for Korea)",
+      "ru": "Решения для когенерационных установок и биогаза (эксклюзивный дистрибьютор Elektro Hagl для Кореи)"
+    },
+    "desc": {
+      "uz": "Busan shahridan kogeneratsiya o'simlik yechimlari kompaniyasi. Germaniyanın Elektro Hagl kompaniyasining Koreyadagi eksklyuziv distribyutori (BHKW). Menejeri: Seokbo Park. www.biogas-hagl.co.kr",
+      "en": "Cogeneration plant solutions company from Busan. Exclusive distributor of Germany's Elektro Hagl for Korea (BHKW). Manager: Seokbo Park.",
+      "ru": "Компания по когенерационным установкам из Пусана. Эксклюзивный дистрибьютор немецкой Elektro Hagl для Кореи (BHKW). Менеджер: Соккбо Пак."
+    },
+    "tags": [
+      "Koreya",
+      "Kogeneratsiya",
+      "Biogas",
+      "Energetika",
+      "Busan"
+    ],
+    "address": "56, Hyoyeol-ro 203beonga-gil, Buk-gu, Busan, Republic of Korea",
+    "phone": "+82/51-361-9957",
+    "email": "taejunebio@gmail.com",
+    "web": "https://biogas-hagl.co.kr"
+  },
+  {
+    "id": 51,
+    "name": "VA Tech WABAG Brno",
+    "flag": "🇨🇿",
+    "color": "#283593",
+    "category": "Engineering",
+    "founded": 1990,
+    "emp": "200-500",
+    "country": {
+      "uz": "Chexiya",
+      "en": "Czech Republic",
+      "ru": "Чехия"
+    },
+    "industry": {
+      "uz": "Suv va chiqindi suv tozalash texnologiyalari",
+      "en": "Water & Wastewater Treatment Technologies",
+      "ru": "Технологии водоочистки и водоотведения"
+    },
+    "desc": {
+      "uz": "Chexiyaning Brno shahridan suv tozalash texnologiyalari kompaniyasi. Dizayner: Dipl.-Ing. Olga Borodina. WABAG Group global korporatsiyasining bir qismi.",
+      "en": "Water treatment technology company from Brno, Czech Republic. Designer: Dipl.-Ing. Olga Borodina. Part of the global WABAG Group corporation.",
+      "ru": "Компания по водоочистным технологиям из Брно, Чехия. Дизайнер: Диплом.-Инж. Ольга Бородина. Часть глобальной корпорации WABAG Group."
+    },
+    "tags": [
+      "Chexiya",
+      "Suv tozalash",
+      "Muhandislik",
+      "Brno",
+      "WABAG"
+    ],
+    "address": "Železná 492/16, 619 00 Brno, Czech Republic",
+    "phone": "+420 545 427 733",
+    "email": "Olga.Borodina@wabag.cz",
+    "web": "http://www.wabag.cz"
+  },
+  {
+    "id": 52,
+    "name": "NAUE GmbH & Co. KG",
+    "flag": "🇩🇪",
+    "color": "#1b5e20",
+    "category": "Industrial",
+    "founded": 1964,
+    "emp": "500+",
+    "country": {
+      "uz": "Germaniya",
+      "en": "Germany",
+      "ru": "Германия"
+    },
+    "industry": {
+      "uz": "Geosintetik materiallar (geotekstil, geomembrana, geokompozit)",
+      "en": "Geosynthetics (geotextile, geomembrane, geocomposite)",
+      "ru": "Геосинтетические материалы (геотекстиль, геомембрана, геокомпозит)"
+    },
+    "desc": {
+      "uz": "Geosintetika sohasida dunyo yetakchisi. MDH davlatlari savdo direktori: Juri Schlee. Espelkamp, Germaniya. Moskva ofisi mavjud. Geotekstil, geomembrana, geokompoziit mahsulotlari.",
+      "en": "World leader in geosynthetics. CIS-States Sales Director: Juri Schlee. Espelkamp, Germany. Has Moscow office. Geotextile, geomembrane, geocomposite products.",
+      "ru": "Мировой лидер в геосинтетике. Директор по продажам для стран СНГ: Юри Шле. Эспелькамп, Германия. Есть московский офис. Геотекстиль, геомембрана, геокомпозит."
+    },
+    "tags": [
+      "Germaniya",
+      "Geosintetika",
+      "Geotekstil",
+      "Geomembrana",
+      "MDH"
+    ],
+    "address": "Gewerbestr. 2, 32339 Espelkamp, Germany",
+    "phone": "+49 5743 41-546",
+    "email": "jschlee@naue.com",
+    "web": "https://naue.com"
+  },
+  {
+    "id": 53,
+    "name": "TorgKoms-Grupp (TorgKoms Group)",
+    "flag": "🇷🇺",
+    "color": "#1b5e20",
+    "category": "Trade",
+    "founded": 2008,
+    "emp": "20-100",
+    "country": {
+      "uz": "Rossiya",
+      "en": "Russia",
+      "ru": "Россия"
+    },
+    "industry": {
+      "uz": "Metall va sanoat materiallari savdosi",
+      "en": "Metal & Industrial Materials Trade",
+      "ru": "Торговля металлом и промышленными материалами"
+    },
+    "desc": {
+      "uz": "Moskvadagi metall va sanoat materiallari savdo kompaniyasi. Sotish bo'lim boshlig'i: Yakovlev Ivan Vladimirovich. Lyuberetskiy район, Kraskov qishlog'i.",
+      "en": "Metal and industrial materials trading company in Moscow. Head of Sales: Yakovlev Ivan Vladimirovich. Lyuberetsky district, Kraskov village.",
+      "ru": "Торговая компания металла и промышленных материалов в Москве. Руководитель отдела продаж: Яковлев Иван Владимирович. Люберецкий р-н, п. Красково."
+    },
+    "tags": [
+      "Rossiya",
+      "Metall",
+      "Savdo",
+      "Moskva",
+      "Sanoat"
+    ],
+    "address": "140050, Московская обл., Люберецкий р-н, п. Красково, ул. 2-я Заводская, д. 2",
+    "phone": "+7 499 705-97-93",
+    "email": "i.yakovlev@torg-koms.ru",
+    "web": "https://metall.torg-koms.ru"
+  },
+  {
+    "id": 54,
+    "name": "NLC — National Logistics Cell",
+    "flag": "🇵🇰",
+    "color": "#e65100",
+    "category": "Logistics",
+    "founded": 1978,
+    "emp": "5000+",
+    "country": {
+      "uz": "Pokiston",
+      "en": "Pakistan",
+      "ru": "Пакистан"
+    },
+    "industry": {
+      "uz": "Milliy logistika va transport xizmatlari",
+      "en": "National Logistics & Transport Services",
+      "ru": "Национальная логистика и транспортные услуги"
+    },
+    "desc": {
+      "uz": "Pokistonning yirik milliy logistika tashkiloti. Marketing menejeri: Khawaja Amer. Lahore, Thokar Niaz Baig. Xalqaro yuk tashish va logistika xizmatlari.",
+      "en": "Pakistan's major national logistics organization. Marketing Manager: Khawaja Amer. Lahore, Thokar Niaz Baig. International freight and logistics services.",
+      "ru": "Крупнейшая национальная логистическая организация Пакистана. Менеджер по маркетингу: Хаваджа Амер. Лахор, Тхокар Ниаз Байг."
+    },
+    "tags": [
+      "Pokiston",
+      "Logistika",
+      "Transport",
+      "Lahore",
+      "Milliy"
+    ],
+    "address": "National Logistics Cell, Thokar Niaz Baig, Lahore, Pakistan",
+    "phone": "042-37511903",
+    "email": "Khawaja.amer@nlc.com.pk"
+  },
+  {
+    "id": 55,
+    "name": "Daroghawala Industry Owners Association",
+    "flag": "🇵🇰",
+    "color": "#4527a0",
+    "category": "Government",
+    "founded": 2000,
+    "emp": "50+",
+    "country": {
+      "uz": "Pokiston",
+      "en": "Pakistan",
+      "ru": "Пакистан"
+    },
+    "industry": {
+      "uz": "Sanoat egalari uyushmasi (Lahore)",
+      "en": "Industrial Estate Owners Association (Lahore)",
+      "ru": "Ассоциация владельцев промышленных предприятий (Лахор)"
+    },
+    "desc": {
+      "uz": "Lahordagi Daroghawala sanoat hududidagi korxona egalari uyushmasi. Prezident: M. Asim Rafiq. Sanoat hamkorlik va biznes rivojlantirishda faol.",
+      "en": "Association of industrial estate owners in Daroghawala, Lahore. President: M. Asim Rafiq. Active in industrial cooperation and business development.",
+      "ru": "Ассоциация владельцев промышленной зоны Дарогхавала, Лахор. Президент: М. Асим Рафик. Активна в промышленном сотрудничестве."
+    },
+    "tags": [
+      "Pokiston",
+      "Lahore",
+      "Sanoat",
+      "Uyushma",
+      "Daroghawala"
+    ],
+    "address": "2-Km, Momin Pura Road, Opp. Ahmad Kanta, Near Ring Road, Daroghawala, Lahore",
+    "phone": "+92 42 36651919",
+    "email": "industryownersassociation@gmail.com"
+  },
+  {
+    "id": 56,
+    "name": "Hydroenergetica (Ukraine)",
+    "flag": "🇺🇦",
+    "color": "#1565c0",
+    "category": "Energy",
+    "founded": 2008,
+    "emp": "20-100",
+    "country": {
+      "uz": "Ukraina",
+      "en": "Ukraine",
+      "ru": "Украина"
+    },
+    "industry": {
+      "uz": "Gidroenergetika va quvvat tizimlari",
+      "en": "Hydropower & Energy Systems",
+      "ru": "Гидроэнергетика и энергетические системы"
+    },
+    "desc": {
+      "uz": "Ukraina gidroenergetika kompaniyasining vakolatxonasi. Direktor: Ashot Petrosyan. Kichik va o'rta gidroelektrostansiyalar, energetika tizimlari loyihalash va qurilish.",
+      "en": "Ukrainian hydropower company representative. Director: Ashot Petrosian. Design and construction of small and medium hydropower plants, energy systems.",
+      "ru": "Украинское представительство гидроэнергетической компании. Директор: Ашот Петросян. Проектирование и строительство малых и средних ГЭС, энергосистем."
+    },
+    "tags": [
+      "Ukraina",
+      "Gidroenergetika",
+      "Energetika",
+      "Quvvat"
+    ],
+    "phone": "+38 063 162-15-95 / +38 097 908-60-09",
+    "email": "ashot.petrosian@hydroenergetica.com",
+    "web": "https://hydroenergetica.com"
+  },
+  {
+    "id": 57,
+    "name": "Gayur Trading LLC",
+    "flag": "🇹🇯",
+    "color": "#880e4f",
+    "category": "Trade",
+    "founded": 2010,
+    "emp": "20-80",
+    "country": {
+      "uz": "Tojikiston",
+      "en": "Tajikistan",
+      "ru": "Таджикистан"
+    },
+    "industry": {
+      "uz": "Savdo va tijorat (Tojikiston)",
+      "en": "Trade & Commerce (Tajikistan)",
+      "ru": "Торговля и коммерция (Таджикистан)"
+    },
+    "desc": {
+      "uz": "Tojikistonning Xatlon viloyatidagi savdo kompaniyasi. Bosh direktor: Amin Ganiev. Yovon tumani, Khatlon viloyati, Tojikiston.",
+      "en": "Trading company in Khatlon region, Tajikistan. CEO: Amin Ganiev. Yovon district, Khatlon region, Republic of Tajikistan.",
+      "ru": "Торговая компания в Хатлонской области Таджикистана. Генеральный директор: Амин Ганиев. Яванский район, Хатлонская область."
+    },
+    "tags": [
+      "Tojikiston",
+      "Savdo",
+      "Khatlon",
+      "Markaziy Osiyo"
+    ],
+    "address": "Gayur LLC, 735310, Yovon district, Khatlon region, Republic of Tajikistan",
+    "phone": "+992 98 793 45 40 / +992 98 1111 03",
+    "email": "amin_ganiev@gayur.tj",
+    "web": "https://gayur.tj"
+  },
+  {
+    "id": 58,
+    "name": "Chughtaee Group (Press / TV)",
+    "flag": "🇵🇰",
+    "color": "#37474f",
+    "category": "Media",
+    "founded": 2005,
+    "emp": "20-80",
+    "country": {
+      "uz": "Pokiston",
+      "en": "Pakistan",
+      "ru": "Пакистан"
+    },
+    "industry": {
+      "uz": "Matbuot, media va motivatsion maslahat",
+      "en": "Press, Media & Motivational Consulting",
+      "ru": "Пресса, медиа и мотивационный консалтинг"
+    },
+    "desc": {
+      "uz": "Lahordagi media va konsalting guruhi. Maqsood Ahmad Chughtai — MA, Muhandis, D.A.I.B.P, motivatsion spiker, turistik konsultant, xalqaro sayohatchi va muallif. Chughtai TV kanali ham bor.",
+      "en": "Media and consulting group in Lahore. Maqsood Ahmad Chughtai — MA, Eng., D.A.I.B.P., motivational speaker, tourism consultant, international traveler and author. Also runs Chughtai TV.",
+      "ru": "Медиа и консалтинговая группа в Лахоре. Макзуд Ахмад Чугхтай — МА, инженер, мотивационный спикер, туристический консультант, международный путешественник и автор. Также ведёт Chughtai TV."
+    },
+    "tags": [
+      "Pokiston",
+      "Media",
+      "Matbuot",
+      "Lahore",
+      "Chughtai TV"
+    ],
+    "address": "Office #64, 1st Floor, Al-Latif Centre, Main Boulevard, Gulberg III, Lahore",
+    "phone": "+92 321 4806800 / +92 333 4254394",
+    "web": "https://explorersden.com"
+  },
+  {
+    "id": 59,
+    "name": "Star Gold Silver",
+    "flag": "🇹🇷",
+    "color": "#f57f17",
+    "category": "Trade",
+    "founded": 2010,
+    "emp": "10-50",
+    "country": {
+      "uz": "Turkiya",
+      "en": "Turkey",
+      "ru": "Турция"
+    },
+    "industry": {
+      "uz": "Zargarlik va oltin-kumush buyumlari savdosi",
+      "en": "Jewelry & Gold-Silver Trade",
+      "ru": "Ювелирные изделия и торговля золотом и серебром"
+    },
+    "desc": {
+      "uz": "Istanbuldan oltin va kumush zargarlik buyumlari kompaniyasi. Kapalıçarşı yaqinida, Yenigeriler Cad., Peykhane Sok., Çemberlitaş, Istanbul. www.stargold.com.tr",
+      "en": "Gold and silver jewelry company from Istanbul. Near Grand Bazaar, Yenigeriler Cad., Peykhane Sok., Çemberlitaş, Istanbul.",
+      "ru": "Компания по золотым и серебряным украшениям из Стамбула. Рядом с Гранд Базаром, Йенигерилер джад., Пейхане сок., Чемберлиташ, Стамбул."
+    },
+    "tags": [
+      "Turkiya",
+      "Istanbul",
+      "Oltin",
+      "Kumush",
+      "Zargarlik"
+    ],
+    "address": "Yenigeriler Cad. No:8 No:10, Peykhane Sok. No:3/C, Çemberlitaş, Istanbul, Turkey",
+    "phone": "+90 212 526 06 53 / +90 534 784 16 91",
+    "web": "https://stargold.com.tr"
+  },
+  {
+    "id": 60,
+    "name": "Eco-Spectrum LLC",
+    "flag": "🇷🇺",
+    "color": "#b71c1c",
+    "category": "Ecology",
+    "founded": 2010,
+    "emp": "50-200",
+    "country": {
+      "uz": "Rossiya",
+      "en": "Russia",
+      "ru": "Россия"
+    },
+    "industry": {
+      "uz": "Issiqlik yo'q qilish va chiqindilarni utilizatsiya qilish uskunalari",
+      "en": "Thermal Destruction & Waste Disposal Equipment",
+      "ru": "Оборудование для термического уничтожения и утилизации отходов"
+    },
+    "desc": {
+      "uz": "Krasnodar shahridagi chiqindilarni issiqlik yo'li bilan yo'q qilish va utilizatsiya qilish uskunalari kompaniyasi. Xalqaro savdo menejeri: Evgeniya Polukarova. Tibbiy, sanoat va maishiy chiqindilar uchun uskunalar.",
+      "en": "Krasnodar company producing equipment for thermal destruction and waste disposal. International Sales Manager: Evgeniya Polukarova. Equipment for medical, industrial and municipal waste.",
+      "ru": "Краснодарская компания по производству оборудования для термического уничтожения и утилизации отходов. Менеджер по международным продажам: Евгения Полукарова."
+    },
+    "tags": [
+      "Rossiya",
+      "Chiqindi yo'q qilish",
+      "Issiqlik texnologiya",
+      "Krasnodar"
+    ],
+    "address": "Im. Demusa M.N. St 52, office 3, Krasnodar, 350080, Russia",
+    "phone": "+7 861 200-18-24 / +7 989 854-43-03",
+    "email": "info@eco-spectrum.com",
+    "web": "https://eco-spectrum.com"
+  },
+  {
+    "id": 61,
+    "name": "Embassy of Tajikistan in Pakistan",
+    "flag": "🇹🇯",
+    "color": "#006400",
+    "category": "Government",
+    "founded": 1995,
+    "emp": "20+",
+    "country": {
+      "uz": "Tojikiston / Pokiston",
+      "en": "Tajikistan / Pakistan",
+      "ru": "Таджикистан / Пакистан"
+    },
+    "industry": {
+      "uz": "Diplomatiya — Tojikistonning Pokistondagi elchixonasi",
+      "en": "Diplomacy — Tajikistan Embassy in Pakistan",
+      "ru": "Дипломатия — Посольство Таджикистана в Пакистане"
+    },
+    "desc": {
+      "uz": "Tojikiston Respublikasining Pokistondagi elchixonasi. Elchi muovini va muxtori: Sharifzoda Yusuf Toir. Islomobod, diplomatik mahalla G-5.",
+      "en": "Embassy of the Republic of Tajikistan in Pakistan. Chargé d'Affaires: Sharifzoda Yusuf Toir. Islamabad, G-5 diplomatic sector.",
+      "ru": "Посольство Республики Таджикистан в Пакистане. Поверенный в делах: Шарифзода Юсуф Тоир. Исламабад, дипломатический сектор G-5."
+    },
+    "tags": [
+      "Tojikiston",
+      "Pokiston",
+      "Diplomatiya",
+      "Elchixona"
+    ],
+    "address": "Street #31, Sector G-5, Islamabad, Pakistan",
+    "phone": "+92 304 505 6666 / +92 336 365 7666",
+    "email": "yousaf@inbox.ru",
+    "web": "https://mfa.tj/islamabad"
+  },
+  {
+    "id": 62,
+    "name": "Rubber Gold MChJ",
+    "flag": "🇺🇿",
+    "color": "#f9a825",
+    "category": "Industrial",
+    "founded": 2014,
+    "emp": "20-80",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Rezina va kauchuk mahsulotlari ishlab chiqarish (Farg'ona)",
+      "en": "Rubber & Rubber Products Manufacturing (Fergana)",
+      "ru": "Производство резиновых и каучуковых изделий (Фергана)"
+    },
+    "desc": {
+      "uz": "Farg'ona viloyati, Buvaydi shahridagi rezina mahsulotlari ishlab chiqaruvchi. Direktor: Haydarali Mukaramov. www.rubbegold.uz",
+      "en": "Rubber products manufacturer in Buvaydi, Fergana region. Director: Haydarali Mukaramov.",
+      "ru": "Производитель резиновых изделий в Буйнакске, Ферганская область. Директор: Хайдарали Мукарамов."
+    },
+    "tags": [
+      "O'zbekiston",
+      "Rezina",
+      "Farg'ona",
+      "Ishlab chiqarish"
+    ],
+    "address": "O'zbekiston, Farg'ona viloyati, Buvaydi shahri, Xizir Mozor ko'chasi 52",
+    "phone": "+998 90 535 00 47 / +998 91 129 11 39",
+    "email": "rubber2014.uz@gmail.com",
+    "web": "https://rubbegold.uz"
+  },
+  {
+    "id": 63,
+    "name": "Key Consulting",
+    "flag": "🇺🇿",
+    "color": "#c62828",
+    "category": "Technology",
+    "founded": 2012,
+    "emp": "20-80",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Biznes konsalting, treninglar, marketing va HR-menejment",
+      "en": "Business Consulting, Trainings, Marketing & HR Management",
+      "ru": "Бизнес-консалтинг, тренинги, маркетинг и HR-менеджмент"
+    },
+    "desc": {
+      "uz": "Toshkentdagi biznes samaradorligini oshirish konsalting markazi. Treninglar, konsalting, marketing, HR-menejment va marketing tadqiqotlari. Sotish menejeri: Yelena Lvova. Mustaqillik prospekti 67.",
+      "en": "Business efficiency consulting center in Tashkent. Trainings, consulting, marketing, HR management and marketing research. Sales Manager: Yelena Lvova.",
+      "ru": "Консалтинговый центр по повышению эффективности бизнеса в Ташкенте. Тренинги, консалтинг, маркетинг, HR-менеджмент и маркетинговые исследования. Менеджер по продажам: Елена Львова."
+    },
+    "tags": [
+      "O'zbekiston",
+      "Konsalting",
+      "Marketing",
+      "HR",
+      "Treninglar"
+    ],
+    "address": "Toshkent, Mustaqillik prospekti 67",
+    "phone": "+998 99 484 99 55 / +998 71 238 99 55",
+    "email": "info@keyconsulting.uz",
+    "web": "https://keyconsulting.uz"
+  },
+  {
+    "id": 64,
+    "name": "MAZ-Tashkent MChJ",
+    "flag": "🇧🇾",
+    "color": "#b71c1c",
+    "category": "Automotive",
+    "founded": 2005,
+    "emp": "50-200",
+    "country": {
+      "uz": "O'zbekiston (Belarus sarmoyasi)",
+      "en": "Uzbekistan (Belarusian capital)",
+      "ru": "Узбекистан (белорусский капитал)"
+    },
+    "industry": {
+      "uz": "Minsk Avtomobil Zavodi rasmiy distribyutori — O'zbekiston",
+      "en": "Minsk Automobile Plant Official Distributor — Uzbekistan",
+      "ru": "Официальный дистрибьютор Минского Автомобильного Завода — Узбекистан"
+    },
+    "desc": {
+      "uz": "Belarus Minsk Avtomobil Zavodi (MAZ)ning O'zbekistondagi rasmiy distribyutori. Bosh menejeri: Xusanov Golibjon Tashniyazovich. Toshkent, 8 Mart ko'chasi 57.",
+      "en": "Official distributor of Belarus Minsk Automobile Plant (MAZ) in Uzbekistan. Chief Manager: Xusanov Golibjon Tashniyazovich. Tashkent, 8 Mart Street 57.",
+      "ru": "Официальный дистрибьютор Минского Автомобильного Завода (МАЗ) в Узбекистане. Главный менеджер: Хусанов Голибджон Ташниязович. Ташкент, ул. 8 Марта 57."
+    },
+    "tags": [
+      "Belarus",
+      "MAZ",
+      "Yuk mashinalar",
+      "Avtomobil",
+      "O'zbekiston"
+    ],
+    "address": "100005, Toshkent sh., O'zbekiston Respublikasi, 8 Mart ko'chasi 57",
+    "phone": "+998 93 555-12-88",
+    "email": "maztashkent@mail.ru",
+    "web": "https://maz.by"
+  },
+  {
+    "id": 65,
+    "name": "Reprocessing (Qayta Ishlash)",
+    "flag": "🇺🇿",
+    "color": "#2e7d32",
+    "category": "Ecology",
+    "founded": 2016,
+    "emp": "10-50",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Chiqindilarni qayta ishlash — Reuse. Reduce. Recycle.",
+      "en": "Waste Reprocessing — Reuse. Reduce. Recycle.",
+      "ru": "Переработка отходов — Reuse. Reduce. Recycle."
+    },
+    "desc": {
+      "uz": "O'zbekistonda chiqindilarni qayta ishlash kompaniyasi. Marketing bo'limi: Akilov Dilshod, Nabiev Xojakbar, Xaydarov Jalol. Elektron axlat va ikkilamchi chiqindilarni qayta ishlash.",
+      "en": "Waste reprocessing company in Uzbekistan. Marketing department: Akilov Dilshod, Nabiev Xojakbar, Xaydarov Jalol. Electronic and secondary waste recycling.",
+      "ru": "Компания по переработке отходов в Узбекистане. Отдел маркетинга: Акилов Дилшод, Набиев Хожакбар, Хайдаров Жалол."
+    },
+    "tags": [
+      "O'zbekiston",
+      "Chiqindi qayta ishlash",
+      "Ekologiya",
+      "Recycle"
+    ],
+    "phone": "+998 97 703 01 77 / +998 93 004 01 77 / +998 97 764 44 04"
+  },
+  {
+    "id": 66,
+    "name": "Kamel Aymon MChJ",
+    "flag": "🇺🇿",
+    "color": "#388e3c",
+    "category": "Municipal",
+    "founded": 2018,
+    "emp": "10-50",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Har hil turdagi va hajmdagi chiqindi qutilar ishlab chiqarish",
+      "en": "Waste Bins & Containers of All Types and Sizes",
+      "ru": "Мусорные контейнеры и баки всех видов и размеров"
+    },
+    "desc": {
+      "uz": "O'zbekistonda har xil turdagi va hajmdagi chiqindi qutilar va konteynerlari ishlab chiqaruvchi. Daniyor, Jasurbek va Muzaffar jamoasi.",
+      "en": "Manufacturer of waste bins and containers of all types and sizes in Uzbekistan. Team: Daniyor, Jasurbek and Muzaffar.",
+      "ru": "Производитель мусорных контейнеров и баков всех видов и размеров в Узбекистане. Команда: Данияр, Жасурбек и Музаффар."
+    },
+    "tags": [
+      "O'zbekiston",
+      "Chiqindi qutilar",
+      "Konteynerlar",
+      "Kommunal",
+      "Ekologiya"
+    ],
+    "phone": "+998 91 177 40 60 / +998 99 974 00 74 / +998 93 925 95 95"
+  },
+  {
+    "id": 67,
+    "name": "Universal Car — LUKOIL Official Distributor (Uzbekistan)",
+    "flag": "🇷🇺",
+    "color": "#b71c1c",
+    "category": "Energy",
+    "founded": 2005,
+    "emp": "20-100",
+    "country": {
+      "uz": "O'zbekiston (Rossiya sarmoyasi)",
+      "en": "Uzbekistan (Russian capital)",
+      "ru": "Узбекистан (российский капитал)"
+    },
+    "industry": {
+      "uz": "LUKOIL moylash materiallari rasmiy distribyutori — O'zbekiston",
+      "en": "LUKOIL Lubricants Official Distributor — Uzbekistan",
+      "ru": "Официальный дистрибьютор смазочных материалов ЛУКОЙЛ — Узбекистан"
+    },
+    "desc": {
+      "uz": "O'zbekistondagi LUKOIL moylash materiallari rasmiy distribyutori. Sotish bo'lim boshlig'i: Ruzmat3oda Anvar Kadirovich. LUKOIL yog'lari va texnik suyuqliklar distribyutsiyasi.",
+      "en": "Official distributor of LUKOIL lubricants in Uzbekistan. Head of Sales: Ruzmat3oda Anvar Kadirovich. Distribution of LUKOIL oils and technical fluids.",
+      "ru": "Официальный дистрибьютор смазочных материалов ЛУКОЙЛ в Узбекистане. Начальник отдела продаж: Рузматзода Анвар Кадирович. Дистрибуция масел и технических жидкостей ЛУКОЙЛ."
+    },
+    "tags": [
+      "LUKOIL",
+      "Yog' materiallari",
+      "Distribyutor",
+      "O'zbekiston",
+      "Rossiya"
+    ],
+    "phone": "+998 99 996 8889 / +998 97 337 8998",
+    "email": "lukoil-b2b@bk.ru"
+  },
+  {
+    "id": 68,
+    "name": "AGMK — Olmaliq Kon-Metallurgiya Kombinati",
+    "flag": "🇺🇿",
+    "color": "#37474f",
+    "category": "Industrial",
+    "founded": 1949,
+    "emp": "50000+",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Kon va metallurgiya — mis, oltin, kumush, molibden",
+      "en": "Mining & Metallurgy — copper, gold, silver, molybdenum",
+      "ru": "Горно-металлургический комбинат — медь, золото, серебро, молибден"
+    },
+    "desc": {
+      "uz": "O'zbekistonning yirik kon-metallurgiya kombinati. Atrof-muhitni muhofaza qilish bo'limi boshlig'i: Abduraxmonov Davronbek Davlatovich. Olmaliq shahri, Toshkent viloyati. Mis, oltin, kumush, molibden, rux va qo'rg'oshin ishlab chiqaradi.",
+      "en": "Uzbekistan's largest mining and metallurgical complex. Head of Environmental Protection: Abdurakhmonov Davronbek Davlatovich. Almalyk, Tashkent region. Produces copper, gold, silver, molybdenum, zinc and lead.",
+      "ru": "Крупнейший горно-металлургический комбинат Узбекистана. Начальник отдела охраны окружающей среды: Абдурахманов Давронбек Давлатович. Алмалык, Ташкентская область."
+    },
+    "tags": [
+      "O'zbekiston",
+      "Mis",
+      "Oltin",
+      "Metallurgiya",
+      "Olmaliq",
+      "AGMK"
+    ],
+    "address": "110100, Olmaliq sh., Amir Temur ko'chasi 53, Toshkent viloyati, O'zbekiston",
+    "phone": "+998 70-141-90-40 / +998 93-182-17-87",
+    "email": "d.abdurakhmanov@agmk.uz",
+    "web": "https://agmk.uz"
+  }
+]

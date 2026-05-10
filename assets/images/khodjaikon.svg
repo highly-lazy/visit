@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a18"/>
+      <stop offset="60%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#2a1f0a"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c8a96e" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#8b6914" stop-opacity="0.6"/>
+    </linearGradient>
+    <linearGradient id="crystal1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0e6cc"/>
+      <stop offset="50%" stop-color="#c8a96e"/>
+      <stop offset="100%" stop-color="#8b6914"/>
+    </linearGradient>
+    <linearGradient id="crystal2" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e8dcc0"/>
+      <stop offset="100%" stop-color="#a07820"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="light" cx="50%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="rgba(200,169,110,0.15)"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="500" fill="url(#sky)"/>
+  <rect width="800" height="500" fill="url(#light)"/>
+
+  <!-- Stars -->
+  <g fill="rgba(200,169,110,0.4)" font-size="3">
+    <circle cx="80" cy="40" r="1.2"/><circle cx="150" cy="20" r="0.8"/>
+    <circle cx="220" cy="60" r="1"/><circle cx="340" cy="30" r="1.5"/>
+    <circle cx="450" cy="15" r="0.9"/><circle cx="560" cy="45" r="1.2"/>
+    <circle cx="650" cy="25" r="0.7"/><circle cx="730" cy="55" r="1"/>
+    <circle cx="120" cy="90" r="0.6"/><circle cx="600" cy="80" r="0.9"/>
+  </g>
+
+  <!-- Distant mountains (salt) -->
+  <polygon points="0,280 120,180 200,240 280,160 380,220 480,150 580,200 680,140 800,190 800,280" fill="rgba(180,150,80,0.15)" stroke="none"/>
+
+  <!-- Ground / salt flat -->
+  <ellipse cx="400" cy="420" rx="500" ry="80" fill="url(#ground)"/>
+  <rect x="0" y="380" width="800" height="120" fill="rgba(200,169,110,0.08)"/>
+
+  <!-- Large salt crystals — main cluster -->
+  <!-- Crystal 1 (center-left, tallest) -->
+  <polygon points="320,130 355,400 285,400" fill="url(#crystal1)" opacity="0.9"/>
+  <polygon points="320,130 355,400 320,380" fill="rgba(255,255,255,0.12)"/>
+  <polygon points="320,130 285,400 320,350" fill="rgba(0,0,0,0.2)"/>
+
+  <!-- Crystal 2 (center) -->
+  <polygon points="400,160 430,400 370,400" fill="url(#crystal2)" opacity="0.85"/>
+  <polygon points="400,160 430,400 400,370" fill="rgba(255,255,255,0.10)"/>
+  <polygon points="400,160 370,400 400,340" fill="rgba(0,0,0,0.15)"/>
+
+  <!-- Crystal 3 (right of center) -->
+  <polygon points="470,190 500,400 440,400" fill="url(#crystal1)" opacity="0.8"/>
+  <polygon points="470,190 500,400 470,380" fill="rgba(255,255,255,0.08)"/>
+
+  <!-- Crystal 4 (left) -->
+  <polygon points="240,200 265,400 215,400" fill="url(#crystal2)" opacity="0.75"/>
+  <polygon points="240,200 265,400 240,370" fill="rgba(255,255,255,0.07)"/>
+
+  <!-- Crystal 5 (far right, smaller) -->
+  <polygon points="560,220 580,400 540,400" fill="url(#crystal1)" opacity="0.65"/>
+
+  <!-- Crystal 6 (far left, smaller) -->
+  <polygon points="160,240 178,400 142,400" fill="url(#crystal2)" opacity="0.6"/>
+
+  <!-- Small crystals scattered -->
+  <polygon points="600,300 615,400 585,400" fill="rgba(200,169,110,0.5)"/>
+  <polygon points="130,310 142,400 118,400" fill="rgba(200,169,110,0.45)"/>
+  <polygon points="680,280 693,400 667,400" fill="rgba(200,169,110,0.4)"/>
+  <polygon points="90,330 100,400 80,400" fill="rgba(200,169,110,0.35)"/>
+
+  <!-- Ground reflections -->
+  <ellipse cx="320" cy="400" rx="35" ry="6" fill="rgba(200,169,110,0.2)"/>
+  <ellipse cx="400" cy="400" rx="30" ry="5" fill="rgba(200,169,110,0.15)"/>
+  <ellipse cx="470" cy="400" rx="30" ry="5" fill="rgba(200,169,110,0.12)"/>
+
+  <!-- Glow on crystal tips -->
+  <circle cx="320" cy="133" r="8" fill="rgba(200,169,110,0.4)" filter="url(#glow)"/>
+  <circle cx="400" cy="163" r="6" fill="rgba(200,169,110,0.35)" filter="url(#glow)"/>
+  <circle cx="470" cy="193" r="5" fill="rgba(200,169,110,0.3)" filter="url(#glow)"/>
+
+  <!-- Ground salt texture dots -->
+  <g fill="rgba(200,169,110,0.2)">
+    <circle cx="100" cy="410" r="2"/><circle cx="180" cy="415" r="1.5"/>
+    <circle cx="260" cy="408" r="2.5"/><circle cx="340" cy="412" r="1.8"/>
+    <circle cx="430" cy="407" r="2"/><circle cx="510" cy="413" r="1.5"/>
+    <circle cx="590" cy="409" r="2.2"/><circle cx="680" cy="414" r="1.8"/>
+    <circle cx="740" cy="410" r="1.5"/>
+  </g>
+
+  <!-- Label -->
+  <text x="400" y="462" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="rgba(200,169,110,0.7)" letter-spacing="4">XO'JAIKON TUZ KONI</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="rgba(200,169,110,0.4)" letter-spacing="2">UZSALT · UZBEKISTAN</text>
+
+  <!-- Top gold line accent -->
+  <line x1="150" y1="460" x2="270" y2="460" stroke="rgba(200,169,110,0.3)" stroke-width="0.5"/>
+  <line x1="530" y1="460" x2="650" y2="460" stroke="rgba(200,169,110,0.3)" stroke-width="0.5"/>
+</svg>

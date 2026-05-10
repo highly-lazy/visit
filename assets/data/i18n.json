@@ -1,0 +1,632 @@
+{
+  "uz": {
+    "meta": {
+      "title": "Boqijonov Shaxobiddin Ismoilovich — Biznes Portali",
+      "description": "Xalqaro savdo, qurilish va innovatsiya sohasidagi tajribali mutaxassis"
+    },
+    "nav": {
+      "home": "Bosh sahifa",
+      "about": "Haqida",
+      "projects": "Loyihalar",
+      "companies": "Kompaniyalar",
+      "contact": "Aloqa",
+      "themeLight": "Yorug' rejim",
+      "themeDark": "Tungi rejim"
+    },
+    "logo": {
+      "sub": "Biznes Portali"
+    },
+    "hero": {
+      "eyebrow": "Xalqaro Biznes & Savdo Hamkorlik Portali",
+      "first": "Boqijonov",
+      "last": "Shaxobiddin",
+      "patronymic": "Ismoilovich",
+      "desc": "<b>Xalqaro savdo, tuz sanoati va ekologik loyihalar</b> sohasidagi tajribali mutaxassis va tadbirkor. Germaniya, Xitoy va Eron bilan savdo hamkorlik, bir nechta kompaniyalarning co-founder va regional sales manager sifatida faoliyat yuritmoqda.",
+      "pills": [
+        "🧂 Tuz Sanoati",
+        "🌍 Xalqaro Savdo",
+        "♻️ Eko Loyihalar",
+        "🤝 Hamkorlik"
+      ],
+      "ctaPrimary": "Loyihalar",
+      "ctaSecondary": "Bog'lanish",
+      "badge1": "Kompaniya",
+      "badge2": "Davlat",
+      "photoAlt": "Boqijonov Shaxobiddin Ismoilovich",
+      "photoHint": "Rasm qo'yish uchun <code>assets/images/profile.jpg</code> faylini almashtiring"
+    },
+    "about": {
+      "label": "Haqida",
+      "title1": "Tajriba va",
+      "title2": "yutuqlar",
+      "desc": "Xalqaro savdo aloqalari, tuz sanoati va ekologik biznes yo'nalishlarida faoliyat yurituvchi tadbirkor. Germaniya, Xitoy va Eron bilan savdo hamkorlik. Bizayla, Kapayurt Salt Town, Uzsalt kompaniyalarining co-founder'i; Bio Texno Eco loyihalarining co-founder'i; Bisay Sanitar Tozalash Korxonasining co-founder'i. Shuningdek, regional sales manager sifatida xalqaro bozorlarda faoliyat.",
+      "stats": [
+        {
+          "label": "Hamkor kompaniya",
+          "target": 12
+        },
+        {
+          "label": "Xorijiy davlat",
+          "target": 8
+        },
+        {
+          "label": "Yillik tajriba",
+          "target": 12
+        },
+        {
+          "label": "Yakunlangan loyiha",
+          "target": 25
+        }
+      ]
+    },
+    "projects": {
+      "label": "Loyihalar",
+      "title1": "Egalik qilayotgan",
+      "title2": "bizneslar",
+      "sub": "Shaxobiddin co-founder va rahbar sifatida ishtirok etayotgan asosiy loyihalar",
+      "viewPartners": "Hamkor kompaniyalar",
+      "more": "Ko'proq",
+      "items": [
+        {
+          "featured": true,
+          "icon": "🧂",
+          "visual": "🏔️",
+          "label": "Asosiy loyiha · Co-founder",
+          "name": "Uzsalt — O'zbekiston Tuz Kompaniyasi",
+          "desc": "O'zbekistonning yirik tuz ishlab chiqarish va eksport kompaniyasi. Xo'jaikon tuz koniga asoslangan. Germaniya, Xitoy va Eron bilan xalqaro savdo aloqalari. Kapayurt Salt Town loyihasining asosi.",
+          "tags": [
+            "Tuz Sanoati",
+            "Eksport",
+            "Xalqaro Savdo",
+            "Co-founder"
+          ]
+        },
+        {
+          "icon": "🏙️",
+          "label": "Turizm & Sog'liqni saqlash · Co-founder",
+          "name": "Kapayurt Salt Town",
+          "desc": "Tuz koniga asoslangan noyob haloterapiya va turizm markazi. Kapadokiya uslubidagi arxitektura bilan O'zbekistonning yangi turistik mo'ljali.",
+          "tags": [
+            "Turizm",
+            "Haloterapiya",
+            "Ko'chmas mulk",
+            "Co-founder"
+          ]
+        },
+        {
+          "icon": "🤝",
+          "label": "Servis · Co-founder",
+          "name": "Bizayla",
+          "desc": "Mahalliy biznes va xizmat ko'rsatish platformasi. Xizmat ko'rsatuvchilar va mijozlarni bog'lovchi zamonaviy raqamli yechim.",
+          "tags": [
+            "Platforma",
+            "Servis",
+            "B2C",
+            "Co-founder"
+          ]
+        },
+        {
+          "icon": "♻️",
+          "label": "Ekologiya · Co-founder",
+          "name": "Bio Texno Eco",
+          "desc": "Ekologik texnologiyalar va biologik qayta ishlash loyihalari. Atrof-muhitni muhofaza qilish va yashil sanoat yo'nalishida innovatsion yechimlar.",
+          "tags": [
+            "Ekologiya",
+            "Bio Texnologiya",
+            "Yashil",
+            "Co-founder"
+          ]
+        },
+        {
+          "icon": "🧹",
+          "label": "Kommunal xizmat · Co-founder",
+          "name": "Bisay Sanitar Tozalash Korxonasi",
+          "desc": "Sanitariya va tozalash xizmatlari korxonasi. Shahar va korxonalarga kompleks sanitariya yechimlari.",
+          "tags": [
+            "Sanitariya",
+            "Tozalash",
+            "Kommunal",
+            "Co-founder"
+          ]
+        }
+      ]
+    },
+    "companies": {
+      "label": "Kompaniyalar",
+      "title1": "Biznes",
+      "title2": "katalogi",
+      "sub": "Hamkor va aloqador kompaniyalar — kategoriya va qidiruv bo'yicha filtrlang",
+      "searchPh": "Kompaniya, davlat, soha...",
+      "sort": {
+        "name": "Nom (A–Z)",
+        "country": "Davlat",
+        "founded": "Yil"
+      },
+      "all": "Barchasi",
+      "found": "kompaniya topildi",
+      "emptyTitle": "Natija topilmadi",
+      "emptyDesc": "Boshqa kalit so'z bilan qidirib ko'ring",
+      "categories": {
+        "Industrial": "Sanoat",
+        "Automotive": "Avtomobil",
+        "Engineering": "Muhandislik",
+        "Finance": "Moliya",
+        "Technology": "Texnologiya",
+        "Trade": "Savdo",
+        "Energy": "Energetika",
+        "Salt": "Tuz Sanoati",
+        "Tourism": "Turizm",
+        "Ecology": "Ekologiya",
+        "Municipal": "Kommunal xizmat",
+        "Construction": "Qurilish",
+        "Food": "Ovqatlanish",
+        "Textile": "To'qimachilik",
+        "Government": "Davlat tashkiloti"
+      },
+      "modal": {
+        "country": "Davlat",
+        "founded": "Tashkil etilgan",
+        "employees": "Xodimlar",
+        "address": "Manzil",
+        "phone": "Telefon",
+        "email": "Email",
+        "website": "Veb-sayt",
+        "call": "Qo'ng'iroq",
+        "emailBtn": "Email",
+        "close": "Yopish"
+      }
+    },
+    "contact": {
+      "label": "Aloqa",
+      "title1": "Bog'laning",
+      "title2": "biz bilan",
+      "sub": "Biznes hamkorlik, takliflar va loyihalar bo'yicha murojaat qiling",
+      "address": "Manzil",
+      "addressVal": "Toshkent, O'zbekiston",
+      "phone": "Telefon",
+      "email": "Email",
+      "telegram": "Telegram",
+      "form": {
+        "title": "Xabar yuborish",
+        "name": "Ism Familiya",
+        "namePh": "To'liq ismingiz",
+        "emailLabel": "Email",
+        "emailPh": "email@example.com",
+        "subject": "Mavzu",
+        "subjectPh": "Hamkorlik taklifi...",
+        "message": "Xabar",
+        "messagePh": "Xabaringizni yozing...",
+        "send": "Yuborish →",
+        "sent": "✅ Xabaringiz yuborildi! Tez orada bog'lanamiz.",
+        "errorRequired": "Iltimos, barcha maydonlarni to'ldiring",
+        "errorEmail": "Email manzili noto'g'ri",
+        "errorSend": "❌ Xabar yuborishda xato. Qaytadan urinib ko'ring."
+      },
+      "phoneVal": "+998 94 201 11 11",
+      "telegramVal": "@uzsalt_uz"
+    },
+    "footer": {
+      "copy": "© 2025 Barcha huquqlar himoyalangan"
+    }
+  },
+  "en": {
+    "meta": {
+      "title": "Boqijonov Shaxobiddin Ismoilovich — Business Portal",
+      "description": "An experienced professional in international trade, construction and innovation"
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "projects": "Projects",
+      "companies": "Companies",
+      "contact": "Contact",
+      "themeLight": "Light mode",
+      "themeDark": "Dark mode"
+    },
+    "logo": {
+      "sub": "Business Portal"
+    },
+    "hero": {
+      "eyebrow": "International Business & Trade Partnership Portal",
+      "first": "Boqijonov",
+      "last": "Shaxobiddin",
+      "patronymic": "Ismoilovich",
+      "desc": "An experienced entrepreneur in <b>international trade, salt industry and ecological projects</b>. Trade partnerships with Germany, China and Iran. Co-founder of multiple companies, regional sales manager in global markets.",
+      "pills": [
+        "🧂 Salt Industry",
+        "🌍 International Trade",
+        "♻️ Eco Projects",
+        "🤝 Partnership"
+      ],
+      "ctaPrimary": "Projects",
+      "ctaSecondary": "Get in touch",
+      "badge1": "Companies",
+      "badge2": "Countries",
+      "photoAlt": "Boqijonov Shaxobiddin Ismoilovich",
+      "photoHint": "To add a photo, replace <code>assets/images/profile.jpg</code>"
+    },
+    "about": {
+      "label": "About",
+      "title1": "Experience &",
+      "title2": "achievements",
+      "desc": "Entrepreneur active in international trade, salt industry and ecological business. Trade partnerships with Germany, China and Iran. Co-founder of Bizayla, Kapayurt Salt Town and Uzsalt; Co-founder of Bio Texno Eco projects; Co-founder of Bisay Sanitary Cleaning Enterprise. Also active as regional sales manager in international markets.",
+      "stats": [
+        {
+          "label": "Partner Companies",
+          "target": 12
+        },
+        {
+          "label": "Countries",
+          "target": 8
+        },
+        {
+          "label": "Years Experience",
+          "target": 12
+        },
+        {
+          "label": "Completed Projects",
+          "target": 25
+        }
+      ]
+    },
+    "projects": {
+      "label": "Projects",
+      "title1": "Owned",
+      "title2": "businesses",
+      "sub": "Key projects and businesses where Shaxobiddin serves as co-founder and leader",
+      "viewPartners": "Partner companies",
+      "more": "More",
+      "items": [
+        {
+          "featured": true,
+          "icon": "🧂",
+          "visual": "🏔️",
+          "label": "Main Project · Co-founder",
+          "name": "Uzsalt — Uzbekistan Salt Company",
+          "desc": "Uzbekistan's leading salt production and export company. Based on the Khodjaikon salt deposit. International trade with Germany, China and Iran. Foundation of Kapayurt Salt Town.",
+          "tags": [
+            "Salt Industry",
+            "Export",
+            "International Trade",
+            "Co-founder"
+          ]
+        },
+        {
+          "icon": "🏙️",
+          "label": "Tourism & Health · Co-founder",
+          "name": "Kapayurt Salt Town",
+          "desc": "A unique halotherapy and tourism center based on the salt mine. Cappadocia-inspired architecture — Uzbekistan's new tourist destination.",
+          "tags": [
+            "Tourism",
+            "Halotherapy",
+            "Real Estate",
+            "Co-founder"
+          ]
+        },
+        {
+          "icon": "🤝",
+          "label": "Service · Co-founder",
+          "name": "Bizayla",
+          "desc": "A local business and services platform connecting service providers with customers through a modern digital solution.",
+          "tags": [
+            "Platform",
+            "Service",
+            "B2C",
+            "Co-founder"
+          ]
+        },
+        {
+          "icon": "♻️",
+          "label": "Ecology · Co-founder",
+          "name": "Bio Texno Eco",
+          "desc": "Ecological technologies and biological processing projects. Innovative solutions in environmental protection and green industry.",
+          "tags": [
+            "Ecology",
+            "BioTech",
+            "Green",
+            "Co-founder"
+          ]
+        },
+        {
+          "icon": "🧹",
+          "label": "Municipal Services · Co-founder",
+          "name": "Bisay Sanitary Cleaning Enterprise",
+          "desc": "Sanitation and cleaning services company providing comprehensive sanitary solutions to cities and enterprises.",
+          "tags": [
+            "Sanitation",
+            "Cleaning",
+            "Municipal",
+            "Co-founder"
+          ]
+        }
+      ]
+    },
+    "companies": {
+      "label": "Companies",
+      "title1": "Business",
+      "title2": "catalog",
+      "sub": "Partner and affiliated companies — filter by category and search",
+      "searchPh": "Company, country, industry...",
+      "sort": {
+        "name": "Name (A–Z)",
+        "country": "Country",
+        "founded": "Year"
+      },
+      "all": "All",
+      "found": "companies found",
+      "emptyTitle": "No results",
+      "emptyDesc": "Try a different keyword",
+      "categories": {
+        "Industrial": "Industrial",
+        "Automotive": "Automotive",
+        "Engineering": "Engineering",
+        "Finance": "Finance",
+        "Technology": "Technology",
+        "Trade": "Trade",
+        "Energy": "Energy",
+        "Salt": "Salt Industry",
+        "Tourism": "Tourism",
+        "Ecology": "Ecology",
+        "Municipal": "Municipal Services",
+        "Construction": "Construction",
+        "Food": "Food & Catering",
+        "Textile": "Textile",
+        "Government": "Gov. Organization"
+      },
+      "modal": {
+        "country": "Country",
+        "founded": "Founded",
+        "employees": "Employees",
+        "address": "Address",
+        "phone": "Phone",
+        "email": "Email",
+        "website": "Website",
+        "call": "Call",
+        "emailBtn": "Email",
+        "close": "Close"
+      }
+    },
+    "contact": {
+      "label": "Contact",
+      "title1": "Get in touch",
+      "title2": "with us",
+      "sub": "Business partnership, proposals and project inquiries",
+      "address": "Address",
+      "addressVal": "Tashkent, Uzbekistan",
+      "phone": "Phone",
+      "email": "Email",
+      "telegram": "Telegram",
+      "form": {
+        "title": "Send a message",
+        "name": "Full name",
+        "namePh": "Your full name",
+        "emailLabel": "Email",
+        "emailPh": "email@example.com",
+        "subject": "Subject",
+        "subjectPh": "Partnership proposal...",
+        "message": "Message",
+        "messagePh": "Write your message...",
+        "send": "Send →",
+        "sent": "✅ Your message has been sent! We'll get back to you soon.",
+        "errorRequired": "Please fill in all fields",
+        "errorEmail": "Invalid email address",
+        "errorSend": "❌ Failed to send message. Please try again."
+      },
+      "phoneVal": "+998 94 201 11 11",
+      "telegramVal": "@uzsalt_uz"
+    },
+    "footer": {
+      "copy": "© 2025 All rights reserved"
+    }
+  },
+  "ru": {
+    "meta": {
+      "title": "Бокижонов Шахобиддин Исмоилович — Бизнес Портал",
+      "description": "Опытный специалист в международной торговле, строительстве и инновациях"
+    },
+    "nav": {
+      "home": "Главная",
+      "about": "О нас",
+      "projects": "Проекты",
+      "companies": "Компании",
+      "contact": "Контакты",
+      "themeLight": "Светлая тема",
+      "themeDark": "Тёмная тема"
+    },
+    "logo": {
+      "sub": "Бизнес Портал"
+    },
+    "hero": {
+      "eyebrow": "Портал международного бизнеса и торгового партнёрства",
+      "first": "Бокижонов",
+      "last": "Шахобиддин",
+      "patronymic": "Исмоилович",
+      "desc": "Опытный предприниматель в области <b>международной торговли, соляной промышленности и экологических проектов</b>. Торговое партнёрство с Германией, Китаем и Ираном. Сооснователь нескольких компаний, региональный менеджер по продажам на международных рынках.",
+      "pills": [
+        "🧂 Соляная промышленность",
+        "🌍 Международная торговля",
+        "♻️ Эко-проекты",
+        "🤝 Партнёрство"
+      ],
+      "ctaPrimary": "Проекты",
+      "ctaSecondary": "Связаться",
+      "badge1": "Компаний",
+      "badge2": "Стран",
+      "photoAlt": "Бокижонов Шахобиддин Исмоилович",
+      "photoHint": "Чтобы добавить фото, замените <code>assets/images/profile.jpg</code>"
+    },
+    "about": {
+      "label": "О нас",
+      "title1": "Опыт и",
+      "title2": "достижения",
+      "desc": "Предприниматель в сферах международной торговли, соляной промышленности и экологического бизнеса. Торговое сотрудничество с Германией, Китаем и Ираном. Сооснователь Bizayla, Kapayurt Salt Town и Uzsalt; сооснователь Bio Texno Eco; сооснователь Bisay Sanitar. Также действует как региональный менеджер по продажам.",
+      "stats": [
+        {
+          "label": "Компании-партнёры",
+          "target": 12
+        },
+        {
+          "label": "Страны",
+          "target": 8
+        },
+        {
+          "label": "Лет опыта",
+          "target": 12
+        },
+        {
+          "label": "Завершённых проектов",
+          "target": 25
+        }
+      ]
+    },
+    "projects": {
+      "label": "Проекты",
+      "title1": "Управляемые",
+      "title2": "бизнесы",
+      "sub": "Ключевые проекты и бизнесы, в которых Шахобиддин является сооснователем",
+      "viewPartners": "Партнёрские компании",
+      "more": "Подробнее",
+      "items": [
+        {
+          "featured": true,
+          "icon": "🧂",
+          "visual": "🏔️",
+          "label": "Основной проект · Сооснователь",
+          "name": "Uzsalt — Узбекская Соляная Компания",
+          "desc": "Ведущая компания по производству и экспорту соли в Узбекистане. Базируется на месторождении Ходжайкон. Международная торговля с Германией, Китаем и Ираном. Основа проекта Kapayurt Salt Town.",
+          "tags": [
+            "Соляная пром.",
+            "Экспорт",
+            "Международная торговля",
+            "Сооснователь"
+          ]
+        },
+        {
+          "icon": "🏙️",
+          "label": "Туризм и здоровье · Сооснователь",
+          "name": "Kapayurt Salt Town",
+          "desc": "Уникальный центр галотерапии и туризма на базе соляного рудника. Архитектура в стиле Каппадокии — новая туристическая точка Узбекистана.",
+          "tags": [
+            "Туризм",
+            "Галотерапия",
+            "Недвижимость",
+            "Сооснователь"
+          ]
+        },
+        {
+          "icon": "🤝",
+          "label": "Сервис · Сооснователь",
+          "name": "Bizayla",
+          "desc": "Платформа местного бизнеса и услуг, соединяющая поставщиков с клиентами.",
+          "tags": [
+            "Платформа",
+            "Сервис",
+            "B2C",
+            "Сооснователь"
+          ]
+        },
+        {
+          "icon": "♻️",
+          "label": "Экология · Сооснователь",
+          "name": "Bio Texno Eco",
+          "desc": "Экологические технологии и проекты биологической переработки.",
+          "tags": [
+            "Экология",
+            "БиоТех",
+            "Зелёная пром.",
+            "Сооснователь"
+          ]
+        },
+        {
+          "icon": "🧹",
+          "label": "Коммунальные услуги · Сооснователь",
+          "name": "Bisay Sanitar",
+          "desc": "Предприятие санитарной очистки, предоставляющее комплексные санитарные решения.",
+          "tags": [
+            "Санитария",
+            "Очистка",
+            "Коммунальные",
+            "Сооснователь"
+          ]
+        }
+      ]
+    },
+    "companies": {
+      "label": "Компании",
+      "title1": "Бизнес",
+      "title2": "каталог",
+      "sub": "Партнёрские и связанные компании — фильтр по категории и поиск",
+      "searchPh": "Компания, страна, отрасль...",
+      "sort": {
+        "name": "Имя (А–Я)",
+        "country": "Страна",
+        "founded": "Год"
+      },
+      "all": "Все",
+      "found": "компаний найдено",
+      "emptyTitle": "Нет результатов",
+      "emptyDesc": "Попробуйте другое ключевое слово",
+      "categories": {
+        "Industrial": "Промышленность",
+        "Automotive": "Автомобили",
+        "Engineering": "Инжиниринг",
+        "Finance": "Финансы",
+        "Technology": "Технологии",
+        "Trade": "Торговля",
+        "Energy": "Энергетика",
+        "Salt": "Соляная пром.",
+        "Tourism": "Туризм",
+        "Ecology": "Экология",
+        "Municipal": "Комм. услуги",
+        "Construction": "Строительство",
+        "Food": "Питание",
+        "Textile": "Текстиль",
+        "Government": "Гос. организация"
+      },
+      "modal": {
+        "country": "Страна",
+        "founded": "Основана",
+        "employees": "Сотрудники",
+        "address": "Адрес",
+        "phone": "Телефон",
+        "email": "Email",
+        "website": "Веб-сайт",
+        "call": "Позвонить",
+        "emailBtn": "Email",
+        "close": "Закрыть"
+      }
+    },
+    "contact": {
+      "label": "Контакты",
+      "title1": "Свяжитесь",
+      "title2": "с нами",
+      "sub": "Бизнес-партнёрство, предложения и запросы по проектам",
+      "address": "Адрес",
+      "addressVal": "Ташкент, Узбекистан",
+      "phone": "Телефон",
+      "email": "Email",
+      "telegram": "Telegram",
+      "form": {
+        "title": "Отправить сообщение",
+        "name": "Имя Фамилия",
+        "namePh": "Ваше полное имя",
+        "emailLabel": "Email",
+        "emailPh": "email@example.com",
+        "subject": "Тема",
+        "subjectPh": "Предложение о сотрудничестве...",
+        "message": "Сообщение",
+        "messagePh": "Напишите ваше сообщение...",
+        "send": "Отправить →",
+        "sent": "✅ Ваше сообщение отправлено! Мы скоро свяжемся с вами.",
+        "errorRequired": "Пожалуйста, заполните все поля",
+        "errorEmail": "Неверный email адрес",
+        "errorSend": "❌ Ошибка отправки. Попробуйте ещё раз."
+      },
+      "phoneVal": "+998 94 201 11 11",
+      "telegramVal": "@uzsalt_uz"
+    },
+    "footer": {
+      "copy": "© 2025 Все права защищены"
+    }
+  }
+}

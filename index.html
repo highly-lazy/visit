@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="uz" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0A0A0F">
+<meta name="description" content="Boqijonov Shaxobiddin Ismoilovich — Xalqaro biznes va investitsiya portali">
+<title>Boqijonov Shaxobiddin Ismoilovich — Biznes Portali</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&family=Outfit:wght@200;300;400;500;600&display=swap" rel="stylesheet">
+
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='20' fill='%230A0A0F'/%3E%3Ctext x='50' y='62' font-family='Georgia,serif' font-size='42' font-weight='700' fill='%23C8A96E' text-anchor='middle'%3EB%3C/text%3E%3C/svg%3E">
+
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+
+<!-- ═══ CUSTOM CURSOR ═══ -->
+<div id="cursor-dot" aria-hidden="true"></div>
+<div id="cursor-ring" aria-hidden="true"></div>
+
+<!-- ═══ HEADER ═══ -->
+<header class="header" id="header">
+  <div class="nav">
+    <a class="nav__logo" href="#home" aria-label="BSI Home">
+      BSI <span data-i18n="logo.sub">Biznes Portali</span>
+    </a>
+
+    <nav aria-label="Main">
+      <ul class="nav__list">
+        <li><a class="nav__link is-active" href="#home"      data-i18n="nav.home">Bosh sahifa</a></li>
+        <li><a class="nav__link"           href="#about"     data-i18n="nav.about">Haqida</a></li>
+        <li><a class="nav__link"           href="#projects"  data-i18n="nav.projects">Loyihalar</a></li>
+        <li><a class="nav__link"           href="#companies" data-i18n="nav.companies">Kompaniyalar</a></li>
+        <li><a class="nav__link"           href="#contact"   data-i18n="nav.contact">Aloqa</a></li>
+      </ul>
+    </nav>
+
+    <div class="nav__right">
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle theme">
+        <svg class="theme-toggle__icon theme-toggle__icon--sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/>
+        </svg>
+        <svg class="theme-toggle__icon theme-toggle__icon--moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+        </svg>
+      </button>
+
+      <div class="lang" role="group" aria-label="Language">
+        <button class="lang__btn is-active" type="button" data-lang="uz" aria-pressed="true">UZ</button>
+        <button class="lang__btn"           type="button" data-lang="en" aria-pressed="false">EN</button>
+        <button class="lang__btn"           type="button" data-lang="ru" aria-pressed="false">RU</button>
+      </div>
+
+      <button class="hamburger" id="hamburger" type="button" aria-label="Menu" aria-expanded="false" aria-controls="mobile-menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- ═══ MOBILE MENU ═══ -->
+<div class="mobile-menu" id="mobile-menu" aria-label="Mobile menu">
+  <ul class="mobile-menu__list">
+    <li><a class="nav__link" href="#home"      data-i18n="nav.home">Bosh sahifa</a></li>
+    <li><a class="nav__link" href="#about"     data-i18n="nav.about">Haqida</a></li>
+    <li><a class="nav__link" href="#projects"  data-i18n="nav.projects">Loyihalar</a></li>
+    <li><a class="nav__link" href="#companies" data-i18n="nav.companies">Kompaniyalar</a></li>
+    <li><a class="nav__link" href="#contact"   data-i18n="nav.contact">Aloqa</a></li>
+  </ul>
+  <div class="mobile-menu__lang lang" role="group" aria-label="Language">
+    <button class="lang__btn is-active" type="button" data-lang="uz" aria-pressed="true">UZ</button>
+    <button class="lang__btn"           type="button" data-lang="en" aria-pressed="false">EN</button>
+    <button class="lang__btn"           type="button" data-lang="ru" aria-pressed="false">RU</button>
+  </div>
+</div>
+
+<main id="main" style="overflow-x:hidden;width:100%">
+
+  <!-- ═══ HERO ═══ -->
+  <section class="hero" id="home">
+  <div class="hero__inner">
+    <div class="hero__bg-line hero__bg-line--1" aria-hidden="true"></div>
+    <div class="hero__bg-line hero__bg-line--2" aria-hidden="true"></div>
+
+    <div class="hero__left">
+      <div class="hero__eyebrow" data-i18n="hero.eyebrow">Xalqaro Biznes &amp; Investitsiya Portali</div>
+      <h1 class="hero__name">
+        <em data-i18n="hero.first">Boqijonov</em>
+        <strong data-i18n="hero.last">Shaxobiddin</strong>
+        <span class="hero__name-patronymic" data-i18n="hero.patronymic">Ismoilovich</span>
+      </h1>
+      <p class="hero__desc" data-i18n-html="hero.desc"></p>
+      <div class="hero__pills" id="hero-pills"></div>
+      <div class="hero__cta">
+        <a class="btn btn--gold"  href="#projects" data-i18n="hero.ctaPrimary">Loyihalar</a>
+        <a class="btn btn--ghost" href="#contact"  data-i18n="hero.ctaSecondary">Bog'lanish</a>
+      </div>
+    </div>
+
+    <div class="hero__right">
+      <div class="hero__badge hero__badge--1" aria-hidden="true">
+        <div class="hero__badge-num">12+</div>
+        <div class="hero__badge-label" data-i18n="hero.badge1">Kompaniya</div>
+      </div>
+      <div class="hero__badge hero__badge--2" aria-hidden="true">
+        <div class="hero__badge-num">8+</div>
+        <div class="hero__badge-label" data-i18n="hero.badge2">Davlat</div>
+      </div>
+
+      <!-- Salt mine showcase badge -->
+      <div class="hero__mine-badge" aria-hidden="true">
+        <img src="assets/images/khodjaikon.svg" alt="Xo'jaikon Tuz Koni" class="hero__mine-img">
+        <div class="hero__mine-label">🧂 Xo'jaikon Tuz Koni</div>
+      </div>
+
+      <figure class="photo">
+        <div class="photo__bg-shape" aria-hidden="true"></div>
+        <span class="photo__corner photo__corner--tl" aria-hidden="true"></span>
+        <span class="photo__corner photo__corner--tr" aria-hidden="true"></span>
+        <span class="photo__corner photo__corner--bl" aria-hidden="true"></span>
+        <span class="photo__corner photo__corner--br" aria-hidden="true"></span>
+        <div class="photo__dot-grid" aria-hidden="true"></div>
+        <div class="photo__scan" aria-hidden="true"></div>
+
+        <div class="photo__inner">
+          <img id="hero-photo" class="photo__img" src="assets/images/rasm.jpg"
+               alt="Boqijonov Shaxobiddin Ismoilovich"
+               data-i18n-attr="alt:hero.photoAlt"
+               style="display:none">
+          <div class="photo__placeholder" id="hero-placeholder">
+            <div class="photo__icon" aria-hidden="true">👤</div>
+            <div class="photo__hint" data-i18n-html="hero.photoHint">
+              Rasm qo'yish uchun <code>assets/images/rasm.jpg</code> faylini almashtiring
+            </div>
+          </div>
+        </div>
+        <div class="photo__crystal-label" aria-hidden="true">🧂 Uzsalt · Xo'jaikon</div>
+      </figure>
+    </div>
+  </div><!-- /.hero__inner -->
+  </section>
+
+  <div class="section-divider" role="separator"></div>
+
+  <!-- ═══ ABOUT ═══ -->
+  <section id="about">
+    <div class="section reveal">
+      <div class="section__label" data-i18n="about.label">Haqida</div>
+      <h2 class="section__title">
+        <span data-i18n="about.title1">Tajriba va</span>
+        <em data-i18n="about.title2">yutuqlar</em>
+      </h2>
+      <p class="section__sub" data-i18n="about.desc"></p>
+
+      <div class="stats" id="stats"></div>
+    </div>
+  </section>
+
+  <div class="section-divider" role="separator"></div>
+
+  <!-- ═══ PROJECTS ═══ -->
+  <section id="projects">
+    <div class="section">
+      <div class="section__label reveal" data-i18n="projects.label">Loyihalar</div>
+      <h2 class="section__title reveal">
+        <span data-i18n="projects.title1">Egalik qilayotgan</span>
+        <em data-i18n="projects.title2">bizneslar</em>
+      </h2>
+      <p class="section__sub reveal" data-i18n="projects.sub"></p>
+
+      <div class="projects" id="projects-grid"></div>
+    </div>
+  </section>
+
+  <div class="section-divider" role="separator"></div>
+
+  <!-- ═══ COMPANIES ═══ -->
+  <section class="companies" id="companies">
+    <div class="companies__inner">
+      <div class="section__label reveal" data-i18n="companies.label">Kompaniyalar</div>
+      <h2 class="section__title reveal">
+        <span data-i18n="companies.title1">Biznes</span>
+        <em data-i18n="companies.title2">katalogi</em>
+      </h2>
+      <p class="section__sub reveal" data-i18n="companies.sub"></p>
+
+      <div class="toolbar reveal">
+        <div class="search">
+          <svg class="search__icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+          </svg>
+          <input type="text" id="search" class="search__input"
+                 data-i18n-attr="placeholder:companies.searchPh"
+                 placeholder="Kompaniya, davlat, soha..."
+                 autocomplete="off">
+        </div>
+        <select id="sort" class="sort" aria-label="Sort companies"></select>
+      </div>
+
+      <div class="cats reveal" id="cats" role="tablist"></div>
+
+      <div class="results-bar">
+        <div class="results-bar__count">
+          <b id="results-count">0</b> <span id="results-label">kompaniya topildi</span>
+        </div>
+      </div>
+
+      <div class="companies__grid" id="companies-grid">
+        <div class="empty-state" id="empty-state">
+          <span class="empty-state__icon" aria-hidden="true">🔍</span>
+          <h3 data-i18n="companies.emptyTitle">Natija topilmadi</h3>
+          <p data-i18n="companies.emptyDesc">Boshqa kalit so'z bilan qidirib ko'ring</p>
+        </div>
+      </div>
+
+      <nav class="pagination" id="pagination" aria-label="Companies pagination"></nav>
+    </div>
+  </section>
+
+  <div class="section-divider" role="separator"></div>
+
+  <!-- ═══ CONTACT ═══ -->
+  <section id="contact">
+    <div class="section">
+      <div class="contact">
+        <div>
+          <div class="section__label reveal" data-i18n="contact.label">Aloqa</div>
+          <h2 class="section__title reveal">
+            <span data-i18n="contact.title1">Bog'laning</span>
+            <em data-i18n="contact.title2">biz bilan</em>
+          </h2>
+          <p class="section__sub reveal" data-i18n="contact.sub"></p>
+
+          <div class="contact__info reveal">
+            <div class="contact__item">
+              <div class="contact__icon" aria-hidden="true">📍</div>
+              <div>
+                <div class="contact__lbl" data-i18n="contact.address">Manzil</div>
+                <div class="contact__val" data-i18n="contact.addressVal">Toshkent, O'zbekiston</div>
+              </div>
+            </div>
+            <div class="contact__item">
+              <div class="contact__icon" aria-hidden="true">📞</div>
+              <div>
+                <div class="contact__lbl" data-i18n="contact.phone">Telefon</div>
+                <div class="contact__val">+998 94 201 11 11</div>
+              </div>
+            </div>
+            <div class="contact__item">
+              <div class="contact__icon" aria-hidden="true">📧</div>
+              <div>
+                <div class="contact__lbl" data-i18n="contact.email">Email</div>
+                <div class="contact__val">shaxob007@gmail.com</div>
+              </div>
+            </div>
+            <div class="contact__item">
+              <div class="contact__icon" aria-hidden="true">💼</div>
+              <div>
+                <div class="contact__lbl" data-i18n="contact.telegram">Telegram</div>
+                <div class="contact__val">@uzsalt_uz</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <form class="form reveal" id="contact-form" novalidate>
+          <h3 class="form__title" data-i18n="contact.form.title">Xabar yuborish</h3>
+
+          <div class="form__field">
+            <label for="cf-name" data-i18n="contact.form.name">Ism Familiya</label>
+            <input id="cf-name" name="name" type="text" required
+                   data-i18n-attr="placeholder:contact.form.namePh">
+          </div>
+          <div class="form__field">
+            <label for="cf-email" data-i18n="contact.form.emailLabel">Email</label>
+            <input id="cf-email" name="email" type="email" required
+                   data-i18n-attr="placeholder:contact.form.emailPh">
+          </div>
+          <div class="form__field">
+            <label for="cf-subject" data-i18n="contact.form.subject">Mavzu</label>
+            <input id="cf-subject" name="subject" type="text" required
+                   data-i18n-attr="placeholder:contact.form.subjectPh">
+          </div>
+          <div class="form__field">
+            <label for="cf-message" data-i18n="contact.form.message">Xabar</label>
+            <textarea id="cf-message" name="message" required
+                      data-i18n-attr="placeholder:contact.form.messagePh"></textarea>
+          </div>
+          <button type="submit" class="form__btn" data-i18n="contact.form.send">Yuborish →</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ═══ FOOTER ═══ -->
+<footer class="footer">
+  <div class="footer__inner">
+    <div class="footer__logo">BSI <span> — Boqijonov Shaxobiddin Ismoilovich</span></div>
+    <div class="footer__copy" data-i18n="footer.copy">© 2025 Barcha huquqlar himoyalangan</div>
+    <ul class="footer__links">
+      <li><a href="#home"      data-i18n="nav.home">Bosh sahifa</a></li>
+      <li><a href="#projects"  data-i18n="nav.projects">Loyihalar</a></li>
+      <li><a href="#companies" data-i18n="nav.companies">Kompaniyalar</a></li>
+    </ul>
+  </div>
+</footer>
+
+<!-- ═══ MODAL ═══ -->
+<div class="overlay" id="modal-overlay" role="dialog" aria-modal="true" aria-hidden="true" aria-labelledby="modal-name">
+  <div class="modal">
+    <div class="modal__head">
+      <div class="modal__head-left">
+        <div class="modal__logo" id="modal-logo"></div>
+        <div>
+          <div class="modal__name" id="modal-name"></div>
+          <div class="modal__sub" id="modal-sub"></div>
+        </div>
+      </div>
+      <button class="modal__close" id="modal-close" type="button" aria-label="Close">✕</button>
+    </div>
+    <div class="modal__body">
+      <div class="modal__desc" id="modal-desc"></div>
+      <div class="modal__grid" id="modal-grid"></div>
+      <div class="modal__tags" id="modal-tags"></div>
+      <div class="modal__btns" id="modal-btns"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ TOAST ═══ -->
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script src="assets/js/app.js" defer></script>
+</body>
+</html>
