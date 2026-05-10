@@ -2248,5 +2248,717 @@
     "phone": "+998 70-141-90-40 / +998 93-182-17-87",
     "email": "d.abdurakhmanov@agmk.uz",
     "web": "https://agmk.uz"
+  },
+
+
+  {
+    "id": 69,
+    "name": "Hong Kong Trade Development Council (HKTDC)",
+    "flag": "🇭🇰",
+    "color": "#e74c3c",
+    "category": "Government",
+    "founded": 1966,
+    "emp": "500+",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Savdo va investitsiyalarni rivojlantirish",
+      "en": "Trade and Investment Promotion",
+      "ru": "Продвижение торговли и инвестиций"
+    },
+    "desc": {
+      "uz": "Gonkongning rasmiy savdo va investitsiya rivojlantirish kengashi. Jeff Chan (Business Development Manager) va Sophia Chong bilan aloqa.",
+      "en": "Official trade and investment promotion body of Hong Kong.",
+      "ru": "Официальный орган продвижения торговли и инвестиций Гонконга."
+    },
+    "tags": ["HKTDC", "Savdo", "Investitsiya", "Belt and Road"],
+    "address": "Unit 13, Expo Galleria, Hong Kong Convention & Exhibition Centre, 1 Expo Drive, Wan Chai, Hong Kong",
+    "phone": "+852 2240 4374",
+    "email": "jeff.tw.chan@hktdc.org",
+    "web": "www.hktdc.com"
+  },
+  {
+    "id": 70,
+    "name": "Jiangsu World Agriculture Machinery Co., Ltd (FMWORLD)",
+    "flag": "🇨🇳",
+    "color": "#1e88e5",
+    "category": "Industrial",
+    "founded": 2000,
+    "emp": "1000+",
+    "country": {
+      "uz": "Xitoy",
+      "en": "China",
+      "ru": "Китай"
+    },
+    "industry": {
+      "uz": "Qishloq xo'jaligi mashinalari ishlab chiqarish",
+      "en": "Agricultural Machinery Manufacturing",
+      "ru": "Производство сельскохозяйственной техники"
+    },
+    "desc": {
+      "uz": "Jiangsu provintsiyasidan qishloq xo'jaligi texnikasi ishlab chiqaruvchi yirik kompaniya. Randy Wu va Wu Lue bilan aloqa.",
+      "en": "Major agricultural machinery manufacturer from Jiangsu Province.",
+      "ru": "Крупный производитель сельскохозяйственной техники из провинции Цзянсу."
+    },
+    "tags": ["FMWORLD", "Qishloq xo'jaligi", "Mashinasozlik", "Eksport"],
+    "address": "Picheng Town, Danyang City, Jiangsu Province, China",
+    "phone": "+86 158 9639 3325",
+    "email": "randy.wu@worldgroup.com.cn",
+    "web": "www.fmworldagri.com"
+  },
+  {
+    "id": 71,
+    "name": "DSA International Limited",
+    "flag": "🇭🇰",
+    "color": "#f57c00",
+    "category": "Trade",
+    "founded": 2010,
+    "emp": "10-50",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Xalqaro savdo",
+      "en": "International Trade",
+      "ru": "Международная торговля"
+    },
+    "desc": {
+      "uz": "Dewan Saiful Alam — Chief Executive Officer.",
+      "en": "International trading company.",
+      "ru": "Международная торговая компания."
+    },
+    "tags": ["Xalqaro savdo"],
+    "address": "Flat-E, 15/F, Alpha House 27-33 Nathan Road, Tsim Sha Tsui, Kowloon, Hong Kong",
+    "phone": "+852 9071 4054",
+    "email": "dsalam@netvigator.com"
+  },
+  {
+    "id": 72,
+    "name": "AMBIT Geospatial Solution",
+    "flag": "🇭🇰",
+    "color": "#3949ab",
+    "category": "Technology",
+    "founded": 2015,
+    "emp": "20-100",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Geografik axborot tizimlari",
+      "en": "Geospatial Solutions",
+      "ru": "Геопространственные решения"
+    },
+    "desc": {
+      "uz": "Eric C P Yau — Senior Geospatial Manager.",
+      "en": "Geospatial and GIS solutions company.",
+      "ru": "Компания геопространственных и GIS решений."
+    },
+    "tags": ["GIS", "Texnologiya"],
+    "address": "Rm 2808-2809, Hong Kong Plaza, 186-191 Connaught Road West, Hong Kong",
+    "phone": "+852 3462 3321",
+    "email": "eric.yau@ambit-geospatial.com.hk",
+    "web": "www.ambit-geospatial.com.hk"
+  },
+  {
+    "id": 73,
+    "name": "Hong Kong General Chamber of Commerce (HKGCC)",
+    "flag": "🇭🇰",
+    "color": "#2e7d32",
+    "category": "Government",
+    "founded": 1861,
+    "emp": "100+",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Savdo-sanoat palatasi",
+      "en": "Chamber of Commerce",
+      "ru": "Торгово-промышленная палата"
+    },
+    "desc": {
+      "uz": "Asia, Africa & Middle East Committee raisi.",
+      "en": "Hong Kong's oldest and largest business organization.",
+      "ru": "Старейшая и крупнейшая бизнес-организация Гонконга."
+    },
+    "tags": ["Savdo palatasi", "HKGCC"]
+  },
+  {
+    "id": 74,
+    "name": "Belt and Road Office (HKSAR Government)",
+    "flag": "🇭🇰",
+    "color": "#d32f2f",
+    "category": "Government",
+    "founded": 2016,
+    "emp": "50+",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Bir kamar bir yo'l tashabbusi",
+      "en": "Belt and Road Initiative",
+      "ru": "Инициатива Один пояс, один путь"
+    },
+    "desc": {
+      "uz": "Sunny CHAU va Nicholas HO Lik-chi bilan aloqa.",
+      "en": "Official Belt and Road office of Hong Kong Government.",
+      "ru": "Официальный офис инициативы 'Один пояс, один путь' правительства Гонконга."
+    },
+    "tags": ["Belt and Road", "Hukumat"],
+    "address": "22/F, West Wing, Central Government Offices, Tamar, Hong Kong",
+    "phone": "+852 3655 5507",
+    "email": "sunny_chau@bro.gov.hk",
+    "web": "www.beltandroad.gov.hk"
+  },
+  {
+    "id": 75,
+    "name": "Hong Kong Science and Technology Parks Corporation (HKSTP)",
+    "flag": "🇭🇰",
+    "color": "#7b1fa2",
+    "category": "Technology",
+    "founded": 2001,
+    "emp": "300+",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Ilm-fan va texnologiya parki",
+      "en": "Science and Technology Park",
+      "ru": "Научно-технологический парк"
+    },
+    "desc": {
+      "uz": "Jerry Lee — Assistant Director.",
+      "en": "Hong Kong's flagship innovation hub.",
+      "ru": "Флагманский инновационный хаб Гонконга."
+    },
+    "tags": ["HKSTP", "Innovatsiya", "Texnologiya"],
+    "address": "5 Science Park East Avenue, Hong Kong Science Park",
+    "phone": "+852 2629 6607",
+    "email": "jerrylee@hkstp.org"
+  },
+  {
+    "id": 76,
+    "name": "Angela Travel Co Ltd",
+    "flag": "🇭🇰",
+    "color": "#ff9800",
+    "category": "Tourism",
+    "founded": 2010,
+    "emp": "10-30",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Turizm va sayyohlik xizmatlari",
+      "en": "Travel and Tourism",
+      "ru": "Туризм"
+    },
+    "desc": {
+      "uz": "Angela Woo — General Manager.",
+      "en": "Travel agency offering services to Uzbekistan and China.",
+      "ru": "Туристическое агентство."
+    },
+    "tags": ["Turizm"],
+    "address": "Unit D, The Good Dragon Building, 190 Ki Lung Street, Kowloon, Hong Kong",
+    "phone": "+852 9090 9588",
+    "email": "info@angelatravelhk.com"
+  },
+  {
+    "id": 77,
+    "name": "QeeBoo HK Company Limited",
+    "flag": "🇭🇰",
+    "color": "#43a047",
+    "category": "Retail",
+    "founded": 2018,
+    "emp": "20-50",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Mebel va dizayn buyumlari",
+      "en": "Furniture & Design",
+      "ru": "Мебель и дизайн"
+    },
+    "desc": {
+      "uz": "Italiya dizayndagi zamonaviy mebel brendi.",
+      "en": "Modern Italian design furniture brand.",
+      "ru": "Бренд современной итальянской мебели."
+    },
+    "tags": ["Mebel", "Dizayn"],
+    "address": "Megabox, Kowloon Bay, Hong Kong",
+    "phone": "+852 6886 6447",
+    "email": "enquiry@qeeboohk.com",
+    "web": "www.qeeboohk.com"
+  },
+  {
+    "id": 78,
+    "name": "Belt and Road General Chamber of Commerce",
+    "flag": "🇭🇰",
+    "color": "#6a1b9a",
+    "category": "Government",
+    "founded": 2015,
+    "emp": "50+",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Bir kamar bir yo'l savdo palatasi",
+      "en": "Belt and Road Chamber of Commerce",
+      "ru": "Торговая палата 'Один пояс, один путь'"
+    },
+    "desc": {
+      "uz": "REN Xiaolin — Vice Chairman.",
+      "en": "Chamber supporting Belt and Road projects.",
+      "ru": "Палата поддержки проектов 'Один пояс, один путь'."
+    },
+    "tags": ["Belt and Road"],
+    "address": "Unit 1504, Causeway Bay Plaza 2, Hong Kong",
+    "phone": "+852 2885 9598",
+    "email": "info@brgcc.hk",
+    "web": "www.brgcc.hk"
+  },
+  {
+    "id": 79,
+    "name": "South China Morning Post (SCMP)",
+    "flag": "🇭🇰",
+    "color": "#212121",
+    "category": "Media",
+    "founded": 1903,
+    "emp": "500+",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Media va nashriyot",
+      "en": "Media & Publishing",
+      "ru": "Медиа и издательство"
+    },
+    "desc": {
+      "uz": "Tammy Tam (Publisher) va Eugene Tang (Managing Editor).",
+      "en": "Leading English-language newspaper in Asia.",
+      "ru": "Ведущая англоязычная газета Азии."
+    },
+    "tags": ["Media", "SCMP"],
+    "address": "19/F Tower One, Times Square, Causeway Bay, Hong Kong",
+    "phone": "+852 2250 3258",
+    "email": "tammy.tam@scmp.com",
+    "web": "www.scmp.com"
+  },
+  {
+    "id": 80,
+    "name": "Hong Kong Commercial Broadcasting Co., Ltd. (CRHK)",
+    "flag": "🇭🇰",
+    "color": "#f44336",
+    "category": "Media",
+    "founded": 1959,
+    "emp": "200+",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Radio va media",
+      "en": "Radio Broadcasting",
+      "ru": "Радиовещание"
+    },
+    "desc": {
+      "uz": "Crystal Cheung Sau Wan — Deputy Director.",
+      "en": "Leading commercial radio station in Hong Kong.",
+      "ru": "Ведущая коммерческая радиостанция Гонконга."
+    },
+    "tags": ["Media", "Radio"],
+    "address": "3 Broadcast Drive, Kowloon, Hong Kong",
+    "phone": "+852 2339 4631",
+    "email": "crystalc@crhk.com.hk",
+    "web": "www.881903.com"
+  },
+  {
+    "id": 81,
+    "name": "MotoNerv",
+    "flag": "🇭🇰",
+    "color": "#00acc1",
+    "category": "Technology",
+    "founded": 2022,
+    "emp": "10-30",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Mobillik va texnologiya startapi",
+      "en": "Mobility Tech Startup",
+      "ru": "Стартап в сфере мобильности"
+    },
+    "desc": {
+      "uz": "Forte Fung — Co-Founder & CEO.",
+      "en": "Tech startup in Hong Kong Science Park.",
+      "ru": "Технологический стартап в HKSTP."
+    },
+    "tags": ["Startup", "Mobillik"],
+    "address": "Hong Kong Science Park",
+    "phone": "+852 9451 9915",
+    "email": "forte@motonerv.tech"
+  },
+  {
+    "id": 82,
+    "name": "Safari Asia Limited",
+    "flag": "🇭🇰",
+    "color": "#5e35b1",
+    "category": "Finance",
+    "founded": 2015,
+    "emp": "20-50",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Moliyaviy xizmatlar",
+      "en": "Financial Services",
+      "ru": "Финансовые услуги"
+    },
+    "desc": {
+      "uz": "Timothy Shen — Chairman.",
+      "en": "Licensed financial company.",
+      "ru": "Лицензированная финансовая компания."
+    },
+    "tags": ["Moliya"],
+    "address": "K11 Atelier, Tsim Sha Tsui, Hong Kong",
+    "phone": "+852 9459 0030",
+    "email": "timshen@safariasia.co",
+    "web": "www.safariasia.co"
+  },
+  {
+    "id": 83,
+    "name": "Now TV Limited (PCCW Group)",
+    "flag": "🇭🇰",
+    "color": "#1565c0",
+    "category": "Media",
+    "founded": 2003,
+    "emp": "1000+",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Televideniye va media",
+      "en": "Television Broadcasting",
+      "ru": "Телевидение"
+    },
+    "desc": {
+      "uz": "Bill Chan — Head of News & Business Information.",
+      "en": "Major pay-TV operator in Hong Kong.",
+      "ru": "Крупный оператор платного ТВ."
+    },
+    "tags": ["Media", "TV"],
+    "address": "Telecom House, Wanchai, Hong Kong",
+    "phone": "+852 2199 3890",
+    "email": "bill.tp.chan@pccw.com"
+  },
+  {
+    "id": 84,
+    "name": "Hong Kong-Shenzhen Innovation and Technology Park (HSITP)",
+    "flag": "🇭🇰",
+    "color": "#00b0ff",
+    "category": "Technology",
+    "founded": 2021,
+    "emp": "100+",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Innovatsion texnologiya parki",
+      "en": "Innovation & Technology Park",
+      "ru": "Инновационно-технологический парк"
+    },
+    "desc": {
+      "uz": "Clara Hong va Kenneth Yau bilan aloqa.",
+      "en": "Cross-border innovation park between Hong Kong and Shenzhen.",
+      "ru": "Трансграничный инновационный парк."
+    },
+    "tags": ["HSITP", "Innovatsiya"],
+    "address": "8 Science Park West Avenue, Hong Kong Science Park",
+    "phone": "+852 3189 1517",
+    "email": "clara.hong@hsitp.org"
+  },
+  {
+    "id": 85,
+    "name": "Treasure of Brands / Hong Kong and Shanghai Wheat and Sugar Company",
+    "flag": "🇭🇰",
+    "color": "#f57f17",
+    "category": "Trade",
+    "founded": 2010,
+    "emp": "20-50",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "FMCG va brendlar savdosi",
+      "en": "FMCG Brands Export",
+      "ru": "Экспорт FMCG брендов"
+    },
+    "desc": {
+      "uz": "Michael Anokhin — FMCG Brands Specialist.",
+      "en": "Specialist in export of food and beverage brands.",
+      "ru": "Специалист по экспорту продовольственных брендов."
+    },
+    "tags": ["FMCG", "Eksport"],
+    "phone": "+852 6978 4108",
+    "email": "sales@hswsc.net"
+  },
+  {
+    "id": 86,
+    "name": "HKT Limited (PCCW Group)",
+    "flag": "🇭🇰",
+    "color": "#00c853",
+    "category": "Telecom",
+    "founded": 1988,
+    "emp": "20000+",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Telekommunikatsiya",
+      "en": "Telecommunications",
+      "ru": "Телекоммуникации"
+    },
+    "desc": {
+      "uz": "Dr Carlos Tam — Assistant Vice President.",
+      "en": "Leading telecommunications provider in Hong Kong.",
+      "ru": "Ведущий телекоммуникационный провайдер."
+    },
+    "tags": ["Telekom", "PCCW"],
+    "address": "PCCW Tower, Taikoo Place, Quarry Bay, Hong Kong",
+    "phone": "+852 9260 0995",
+    "email": "carlos.cw.tam@pccw.com",
+    "web": "www.hkt.com"
+  },
+  {
+    "id": 87,
+    "name": "Chan's Property Agency / Chankee Travel",
+    "flag": "🇭🇰",
+    "color": "#8e24aa",
+    "category": "Services",
+    "founded": 2015,
+    "emp": "5-20",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Ko'chmas mulk va turizm",
+      "en": "Real Estate & Travel Services",
+      "ru": "Недвижимость и туризм"
+    },
+    "desc": {
+      "uz": "Chan Wai Chun — Estate Agent va Travel Agent.",
+      "en": "Property agency and travel services.",
+      "ru": "Агентство недвижимости и туризма."
+    },
+    "tags": ["Ko'chmas mulk", "Turizm"],
+    "address": "203A Des Voeux Road West, Hong Kong",
+    "phone": "+852 9428 7997",
+    "email": "chankee94287997@yahoo.com.hk"
+  },
+  {
+    "id": 88,
+    "name": "Standard Chartered Bank (Hong Kong) Limited",
+    "flag": "🇭🇰",
+    "color": "#1565c0",
+    "category": "Finance",
+    "founded": 1853,
+    "emp": "50000+",
+    "country": {
+      "uz": "Gonkong",
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "industry": {
+      "uz": "Bank va investitsiyalar",
+      "en": "Banking & Investment",
+      "ru": "Банкинг и инвестиции"
+    },
+    "desc": {
+      "uz": "Yolanda Xu — Director, China Corporates.",
+      "en": "International banking services.",
+      "ru": "Международные банковские услуги."
+    },
+    "tags": ["Bank", "Moliya"],
+    "address": "Standard Chartered Bank Building, Central, Hong Kong",
+    "phone": "+852 9875 5833",
+    "email": "YolandaYL.Xu@sc.com",
+    "web": "sc.com/hk"
+  },
+  {
+    "id": 89,
+    "name": "BMB Holding",
+    "flag": "🇺🇿",
+    "color": "#2e7d32",
+    "category": "Holding",
+    "founded": 2015,
+    "emp": "500+",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Xolding kompaniyasi",
+      "en": "Holding Company",
+      "ru": "Холдинговая компания"
+    },
+    "desc": {
+      "uz": "Aziz Mamatkulov — Shareholder.",
+      "en": "Major Uzbek holding.",
+      "ru": "Крупный узбекский холдинг."
+    },
+    "tags": ["Xolding"],
+    "address": "14B, Kichik Halqa yoli, Toshkent",
+    "phone": "+998 91 598 30 30",
+    "email": "international@bmb-holding.uz",
+    "web": "www.bmb-holding.uz"
+  },
+  {
+    "id": 90,
+    "name": "Samella",
+    "flag": "🇺🇿",
+    "color": "#1976d2",
+    "category": "Textile",
+    "founded": 2018,
+    "emp": "100-300",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "To'qimachilik va eksport",
+      "en": "Textile & Export",
+      "ru": "Текстиль и экспорт"
+    },
+    "desc": {
+      "uz": "Samandar Xayitov — Bosh direktor.",
+      "en": "Textile company from Qashqadaryo region.",
+      "ru": "Текстильная компания из Кашкадарьинской области."
+    },
+    "tags": ["To'qimachilik"],
+    "address": "Qashqadaryo viloyati, Karshi tumani",
+    "phone": "+998 93 908 40 97",
+    "email": "samandar.khayitov@yahoo.com",
+    "web": "www.samella.uz"
+  },
+  {
+    "id": 91,
+    "name": "Khilal",
+    "flag": "🇺🇿",
+    "color": "#f57c00",
+    "category": "Trade",
+    "founded": 2010,
+    "emp": "50-200",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Savdo va eksport",
+      "en": "Trade & Export",
+      "ru": "Торговля и экспорт"
+    },
+    "desc": {
+      "uz": "Kholmatov Alisher Kholmatovich.",
+      "en": "Trading company.",
+      "ru": "Торговая компания."
+    },
+    "tags": ["Savdo"],
+    "address": "Yakkasaroy tumani, Bobur ko'chasi 34, Toshkent",
+    "phone": "+998 98 123 00 01",
+    "email": "Burgaz01@inbox.ru",
+    "web": "www.khilal.uz"
+  },
+  {
+    "id": 92,
+    "name": "ERMÁK",
+    "flag": "🇺🇿",
+    "color": "#455a64",
+    "category": "Industrial",
+    "founded": 1992,
+    "emp": "100-500",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Sanoat uskunalari",
+      "en": "Industrial Equipment",
+      "ru": "Промышленное оборудование"
+    },
+    "desc": {
+      "uz": "Fazlitdinov Sanjar — Head of Export Department.",
+      "en": "Industrial company with export focus.",
+      "ru": "Промышленная компания с фокусом на экспорт."
+    },
+    "tags": ["Sanoat", "Eksport"],
+    "phone": "+998 77 377-23-33",
+    "email": "sanjar.fazlitdinov@ermak.uz",
+    "web": "www.ermak.uz"
+  },
+  {
+    "id": 93,
+    "name": "MEXMASH Limited Liability Company",
+    "flag": "🇺🇿",
+    "color": "#2e7d32",
+    "category": "Industrial",
+    "founded": 2015,
+    "emp": "50-150",
+    "country": {
+      "uz": "O'zbekiston",
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "industry": {
+      "uz": "Mashinasozlik",
+      "en": "Machinery Manufacturing",
+      "ru": "Машиностроение"
+    },
+    "desc": {
+      "uz": "Olim Isayev — Founder.",
+      "en": "Machinery manufacturing company.",
+      "ru": "Машиностроительная компания."
+    },
+    "tags": ["Mashinasozlik"],
+    "address": "Abdulla Qahhor ko'chasi 46, Toshkent",
+    "phone": "+998 97 270 70 00",
+    "email": "olim72isaev@gmail.com"
   }
 ]
